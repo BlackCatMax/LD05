@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\private\\ai_meleefightsequencesdata.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\ue5.6\\agls v1.6.0\\intermediate\\build\\win64\\x64\\agls\\shipping\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\helpfulfunctions\\definitions.helpfulfunctions.h",
+            "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\ai_meleefightsequencesdata.h",
+            "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\als_structuresandenumscpp.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\curves\\curvevector.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\curvevector.generated.h",
+            "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\uht\\als_structuresandenumscpp.generated.h",
+            "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\uht\\ai_meleefightsequencesdata.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,70 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "AsyncFunctionsPlayer.h"
+
+#ifdef HELPFULFUNCTIONS_AsyncFunctionsPlayer_generated_h
+#error "AsyncFunctionsPlayer.generated.h already included, missing '#pragma once' in AsyncFunctionsPlayer.h"
+#endif
+#define HELPFULFUNCTIONS_AsyncFunctionsPlayer_generated_h
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+
+class UAnimInstance;
+class UAnimMontage;
+class UAnimSequence;
+
+// ********** Begin Class UAsyncFunctionsPlayer ****************************************************
+#define FID_Unreal_Projects_UE5_6_AGLS_v1_6_0_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	DECLARE_FUNCTION(execPlayDynamicMontageAsync); \
+	DECLARE_FUNCTION(execMontagePlayAsync);
+
+
+HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UAsyncFunctionsPlayer_NoRegister();
+
+#define FID_Unreal_Projects_UE5_6_AGLS_v1_6_0_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_15_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUAsyncFunctionsPlayer(); \
+	friend struct Z_Construct_UClass_UAsyncFunctionsPlayer_Statics; \
+	static UClass* GetPrivateStaticClass(); \
+	friend HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UAsyncFunctionsPlayer_NoRegister(); \
+public: \
+	DECLARE_CLASS2(UAsyncFunctionsPlayer, UActorComponent, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/HelpfulFunctions"), Z_Construct_UClass_UAsyncFunctionsPlayer_NoRegister) \
+	DECLARE_SERIALIZER(UAsyncFunctionsPlayer)
+
+
+#define FID_Unreal_Projects_UE5_6_AGLS_v1_6_0_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_15_ENHANCED_CONSTRUCTORS \
+	/** Deleted move- and copy-constructors, should never be used */ \
+	UAsyncFunctionsPlayer(UAsyncFunctionsPlayer&&) = delete; \
+	UAsyncFunctionsPlayer(const UAsyncFunctionsPlayer&) = delete; \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UAsyncFunctionsPlayer); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UAsyncFunctionsPlayer); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UAsyncFunctionsPlayer) \
+	NO_API virtual ~UAsyncFunctionsPlayer();
+
+
+#define FID_Unreal_Projects_UE5_6_AGLS_v1_6_0_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_12_PROLOG
+#define FID_Unreal_Projects_UE5_6_AGLS_v1_6_0_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_15_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Unreal_Projects_UE5_6_AGLS_v1_6_0_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Unreal_Projects_UE5_6_AGLS_v1_6_0_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_15_INCLASS_NO_PURE_DECLS \
+	FID_Unreal_Projects_UE5_6_AGLS_v1_6_0_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_15_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+class UAsyncFunctionsPlayer;
+
+// ********** End Class UAsyncFunctionsPlayer ******************************************************
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_Unreal_Projects_UE5_6_AGLS_v1_6_0_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1,0 +1,120 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.HelpfulFunctions.1.cpp.obj": [
+			"AGLS_AIsMeleeFightCore.gen.cpp.obj",
+			"AGLS_AI_AnimInstanceBase.gen.cpp.obj",
+			"AGLS_AI_CharacterInterface.gen.cpp.obj"
+		],
+		"Module.HelpfulFunctions.2.cpp.obj": [
+			"AGLS_AI_HumanCharInterface.gen.cpp.obj",
+			"AGLS_AI_ZombieAnimInstCore.gen.cpp.obj",
+			"AGLS_CharacterMovementComponent.gen.cpp.obj",
+			"AGLS_GlobalHumanAI_WardenCore.gen.cpp.obj",
+			"AGLS_HumanAI_CharacterBase.gen.cpp.obj"
+		],
+		"Module.HelpfulFunctions.3.cpp.obj": [
+			"AGLS_Human_ControllerCoreAI.gen.cpp.obj",
+			"AGLS_ZombieAttacksComponentCore.gen.cpp.obj",
+			"AGLS_ZombieCharacterCore.gen.cpp.obj"
+		],
+		"Module.HelpfulFunctions.4.cpp.obj": [
+			"AGLS_Zombie_ControllerAI.gen.cpp.obj",
+			"AI_MeleeFightSequencesData.gen.cpp.obj",
+			"ALS_BaseAI_CharacterCpp.gen.cpp.obj",
+			"ALS_BaseComponentsInterfaceCpp.gen.cpp.obj",
+			"ALS_DamageConfigData.gen.cpp.obj",
+			"ALS_HookActorInterface.gen.cpp.obj",
+			"ALS_HumanAI_ControllerCpp.gen.cpp.obj",
+			"ALS_HumanAI_InterfaceCpp.gen.cpp.obj"
+		],
+		"Module.HelpfulFunctions.5.cpp.obj": [
+			"ALS_StructuresAndEnumsCpp.gen.cpp.obj",
+			"AsyncFunctionsPlayer.gen.cpp.obj",
+			"AsyncLoadAssetsNode.gen.cpp.obj",
+			"Cpp_CoverSystemV2.gen.cpp.obj",
+			"Cpp_DynamicClimbingComponent.gen.cpp.obj"
+		],
+		"Module.HelpfulFunctions.6.cpp.obj": [
+			"Cpp_FallDamageAndSliding.gen.cpp.obj",
+			"Cpp_LadderClimbingComponent.gen.cpp.obj",
+			"Cpp_MatchedMontageComponent.gen.cpp.obj",
+			"Cpp_TraversalActionComponent.gen.cpp.obj"
+		],
+		"Module.HelpfulFunctions.7.cpp.obj": [
+			"HelpfulFunctions.init.gen.cpp.obj",
+			"InteractionWidgetCondition.gen.cpp.obj",
+			"InteractionWidgetDisplay.gen.cpp.obj",
+			"InteractionWidgetInterface.gen.cpp.obj",
+			"InteractiveActor.gen.cpp.obj",
+			"InteractiveActorsInterface.gen.cpp.obj",
+			"InteractiveStaticMeshActor.gen.cpp.obj",
+			"JacobMotionWarpingComponent.gen.cpp.obj",
+			"JakubW_ASyncFunctions.gen.cpp.obj"
+		],
+		"Module.HelpfulFunctions.8.cpp.obj": [
+			"MantleAssetData.gen.cpp.obj",
+			"ModifyClimbingParamsVolume.gen.cpp.obj",
+			"PairedAnimSequenceData.gen.cpp.obj",
+			"PairedAttackSequenceData.gen.cpp.obj",
+			"SimpleMovementParamsData.gen.cpp.obj",
+			"STE_HumanAI_SightPerceptionCore.gen.cpp.obj",
+			"TraversalActionsParamsData.gen.cpp.obj",
+			"TraversalInteractionInterface.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj"
+		],
+		"Module.HelpfulFunctions.9.cpp.obj": [
+			"HelpfulFunctionsBPLibrary.gen.cpp.obj"
+		],
+		"Module.HelpfulFunctions.10.cpp.obj": [
+			"AGLS_AIsMeleeFightCore.cpp.obj",
+			"AGLS_AI_AnimInstanceBase.cpp.obj",
+			"AGLS_AI_CharacterInterface.cpp.obj",
+			"AGLS_AI_HumanCharInterface.cpp.obj",
+			"AGLS_AI_ZombieAnimInstCore.cpp.obj",
+			"AGLS_CharacterMovementComponent.cpp.obj",
+			"AGLS_GlobalHumanAI_WardenCore.cpp.obj",
+			"AGLS_HumanAI_CharacterBase.cpp.obj",
+			"AGLS_Human_ControllerCoreAI.cpp.obj",
+			"AGLS_ZombieAttacksComponentCore.cpp.obj",
+			"AGLS_ZombieCharacterCore.cpp.obj",
+			"AGLS_Zombie_ControllerAI.cpp.obj",
+			"AI_MeleeFightSequencesData.cpp.obj",
+			"ALS_BaseAI_CharacterCpp.cpp.obj",
+			"ALS_BaseComponentsInterfaceCpp.cpp.obj",
+			"ALS_DamageConfigData.cpp.obj",
+			"ALS_HookActorInterface.cpp.obj",
+			"ALS_HumanAI_ControllerCpp.cpp.obj",
+			"ALS_HumanAI_InterfaceCpp.cpp.obj",
+			"ALS_StructuresAndEnumsCpp.cpp.obj",
+			"AsyncFunctionsPlayer.cpp.obj",
+			"AsyncLoadAssetsNode.cpp.obj",
+			"Cpp_CoverSystemV2.cpp.obj",
+			"Cpp_DynamicClimbingComponent.cpp.obj",
+			"Cpp_FallDamageAndSliding.cpp.obj",
+			"Cpp_LadderClimbingComponent.cpp.obj",
+			"Cpp_MatchedMontageComponent.cpp.obj",
+			"Cpp_TraversalActionComponent.cpp.obj",
+			"HelpfulFunctions.cpp.obj",
+			"HelpfulFunctionsBPLibrary.cpp.obj"
+		],
+		"Module.HelpfulFunctions.11.cpp.obj": [
+			"InteractionWidgetCondition.cpp.obj",
+			"InteractionWidgetDisplay.cpp.obj",
+			"InteractionWidgetInterface.cpp.obj",
+			"InteractiveActor.cpp.obj",
+			"InteractiveActorsInterface.cpp.obj",
+			"InteractiveStaticMeshActor.cpp.obj",
+			"JacobMotionWarpingComponent.cpp.obj",
+			"JakubW_ASyncFunctions.cpp.obj",
+			"MantleAssetData.cpp.obj",
+			"ModifyClimbingParamsVolume.cpp.obj",
+			"PairedAnimSequenceData.cpp.obj",
+			"PairedAttackSequenceData.cpp.obj",
+			"SimpleMovementParamsData.cpp.obj",
+			"STE_HumanAI_SightPerceptionCore.cpp.obj",
+			"TraversalActionsParamsData.cpp.obj",
+			"TraversalInteractionInterface.cpp.obj"
+		]
+	}
+}

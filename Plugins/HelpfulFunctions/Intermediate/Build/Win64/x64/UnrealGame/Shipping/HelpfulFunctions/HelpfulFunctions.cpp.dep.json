@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\private\\helpfulfunctions.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\ue5.6\\agls v1.6.0\\intermediate\\build\\win64\\x64\\agls\\shipping\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\helpfulfunctions\\definitions.helpfulfunctions.h",
+            "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\helpfulfunctions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
