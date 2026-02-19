@@ -1,0 +1,43 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\climbingnavigation\\source\\climbingnavigation\\private\\envquery_customscoredefine.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\ue5.6\\agls v1.6.0\\intermediate\\build\\win64\\x64\\agls\\shipping\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\climbingnavigation\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\climbingnavigation\\definitions.climbingnavigation.h",
+            "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\climbingnavigation\\source\\climbingnavigation\\public\\envquery_customscoredefine.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\environmentquery\\envquerymanager.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\environmentquery\\items\\envqueryitemtype.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\envqueryitemtype.generated.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\environmentquery\\envquerycontext.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\envquerycontext.generated.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\environmentquery\\envquerytypes.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\behaviortree\\behaviortreetypes.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\behaviortree\\blackboard\\blackboardkey.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\behaviortreetypes.generated.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\envquerytypes.generated.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\aisubsystem.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\aisystem.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\ai\\aisystembase.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\aisystembase.generated.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\aisystem.generated.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\aisubsystem.generated.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\environmentquery\\envqueryinstanceblueprintwrapper.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\environmentquery\\eqsqueryresultsourceinterface.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\eqsqueryresultsourceinterface.generated.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\envqueryinstanceblueprintwrapper.generated.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\envquerymanager.generated.h",
+            "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\climbingnavigation\\intermediate\\build\\win64\\unrealgame\\inc\\climbingnavigation\\uht\\envquery_customscoredefine.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

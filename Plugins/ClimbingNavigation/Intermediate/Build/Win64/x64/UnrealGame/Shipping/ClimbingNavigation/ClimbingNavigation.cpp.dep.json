@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\climbingnavigation\\source\\climbingnavigation\\private\\climbingnavigation.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\ue5.6\\agls v1.6.0\\intermediate\\build\\win64\\x64\\agls\\shipping\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\climbingnavigation\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\climbingnavigation\\definitions.climbingnavigation.h",
+            "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\climbingnavigation\\source\\climbingnavigation\\public\\climbingnavigation.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

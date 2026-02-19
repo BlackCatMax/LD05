@@ -1,0 +1,72 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "AISense_BetterSight.h"
+
+#ifdef CLIMBINGNAVIGATION_AISense_BetterSight_generated_h
+#error "AISense_BetterSight.generated.h already included, missing '#pragma once' in AISense_BetterSight.h"
+#endif
+#define CLIMBINGNAVIGATION_AISense_BetterSight_generated_h
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+
+// ********** Begin Class UAISense_BetterSight *****************************************************
+CLIMBINGNAVIGATION_API UClass* Z_Construct_UClass_UAISense_BetterSight_NoRegister();
+
+#define FID_Unreal_Projects_UE5_6_AGLS_v1_6_0_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AISense_BetterSight_h_24_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUAISense_BetterSight(); \
+	friend struct Z_Construct_UClass_UAISense_BetterSight_Statics; \
+	static UClass* GetPrivateStaticClass(); \
+	friend CLIMBINGNAVIGATION_API UClass* Z_Construct_UClass_UAISense_BetterSight_NoRegister(); \
+public: \
+	DECLARE_CLASS2(UAISense_BetterSight, UAISense_Sight, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/ClimbingNavigation"), Z_Construct_UClass_UAISense_BetterSight_NoRegister) \
+	DECLARE_SERIALIZER(UAISense_BetterSight)
+
+
+#define FID_Unreal_Projects_UE5_6_AGLS_v1_6_0_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AISense_BetterSight_h_24_ENHANCED_CONSTRUCTORS \
+	/** Deleted move- and copy-constructors, should never be used */ \
+	UAISense_BetterSight(UAISense_BetterSight&&) = delete; \
+	UAISense_BetterSight(const UAISense_BetterSight&) = delete; \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UAISense_BetterSight); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UAISense_BetterSight); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAISense_BetterSight) \
+	NO_API virtual ~UAISense_BetterSight();
+
+
+#define FID_Unreal_Projects_UE5_6_AGLS_v1_6_0_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AISense_BetterSight_h_21_PROLOG
+#define FID_Unreal_Projects_UE5_6_AGLS_v1_6_0_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AISense_BetterSight_h_24_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Unreal_Projects_UE5_6_AGLS_v1_6_0_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AISense_BetterSight_h_24_INCLASS_NO_PURE_DECLS \
+	FID_Unreal_Projects_UE5_6_AGLS_v1_6_0_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AISense_BetterSight_h_24_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+class UAISense_BetterSight;
+
+// ********** End Class UAISense_BetterSight *******************************************************
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_Unreal_Projects_UE5_6_AGLS_v1_6_0_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AISense_BetterSight_h
+
+// ********** Begin Enum AISense_SightTracingMode **************************************************
+#define FOREACH_ENUM_AISENSE_SIGHTTRACINGMODE(op) \
+	op(AISense_SightTracingMode::OnlyPelvis) \
+	op(AISense_SightTracingMode::PelvisAndHead) \
+	op(AISense_SightTracingMode::PelvisHeadArms) \
+	op(AISense_SightTracingMode::AllBodyParts) 
+
+enum class AISense_SightTracingMode : uint8;
+template<> struct TIsUEnumClass<AISense_SightTracingMode> { enum { Value = true }; };
+template<> CLIMBINGNAVIGATION_API UEnum* StaticEnum<AISense_SightTracingMode>();
+// ********** End Enum AISense_SightTracingMode ****************************************************
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1,0 +1,66 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ClimbingNavigation.1.cpp.obj": [
+			"AdvancedAI_TasksAndFunctions.gen.cpp.obj",
+			"AGLS_NavLinkCustomComponent.gen.cpp.obj",
+			"AISense_BetterSight.gen.cpp.obj",
+			"BTService_BlueprintCustom.gen.cpp.obj",
+			"ClimbingNavigation.init.gen.cpp.obj",
+			"ClimbingNavigationBPLibrary.gen.cpp.obj",
+			"ClimbNavigationStorageActor.gen.cpp.obj",
+			"DynamicNavLinkComponent.gen.cpp.obj",
+			"EnvQueryGenerator_NavCoverPoints.gen.cpp.obj",
+			"EnvQueryTest_Composite.gen.cpp.obj",
+			"EnvQueryTest_CustomScore.gen.cpp.obj",
+			"EnvQueryTest_DotToContextRot.gen.cpp.obj"
+		],
+		"Module.ClimbingNavigation.2.cpp.obj": [
+			"EnvQueryTest_PathsOverlapping.gen.cpp.obj",
+			"EnvQueryTest_PointInsideCylinder.gen.cpp.obj",
+			"EnvQuery_CompositeScoreDefine.gen.cpp.obj",
+			"EnvQuery_CSD_CheckPath.gen.cpp.obj",
+			"EnvQuery_CSD_Distance.gen.cpp.obj",
+			"EnvQuery_CSD_DistanceToVector.gen.cpp.obj",
+			"EnvQuery_CustomScoreDefine.gen.cpp.obj",
+			"HidingLocSearch_EnemyProperties.gen.cpp.obj",
+			"MyEnvQueryTest_PointsNearEdges.gen.cpp.obj",
+			"NavClimbingComponentCore.gen.cpp.obj",
+			"NavLinksAutoGenerator.gen.cpp.obj",
+			"NavLinksStorage.gen.cpp.obj",
+			"NavQuery_FullNavPathFinding.gen.cpp.obj",
+			"NavQuery_HidingLocSearchParams.gen.cpp.obj"
+		],
+		"Module.ClimbingNavigation.3.cpp.obj": [
+			"SmoothPathFollowingComponent.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"AdvancedAI_TasksAndFunctions.cpp.obj",
+			"AGLS_NavLinkCustomComponent.cpp.obj",
+			"AISense_BetterSight.cpp.obj",
+			"BTService_BlueprintCustom.cpp.obj",
+			"ClimbingNavigation.cpp.obj",
+			"ClimbingNavigationBPLibrary.cpp.obj",
+			"ClimbNavigationStorageActor.cpp.obj",
+			"DynamicNavLinkComponent.cpp.obj",
+			"EnvQueryGenerator_NavCoverPoints.cpp.obj",
+			"EnvQueryTest_Composite.cpp.obj",
+			"EnvQueryTest_CustomScore.cpp.obj",
+			"EnvQueryTest_DotToContextRot.cpp.obj",
+			"EnvQueryTest_PathsOverlapping.cpp.obj",
+			"EnvQueryTest_PointInsideCylinder.cpp.obj",
+			"EnvQuery_CompositeScoreDefine.cpp.obj",
+			"EnvQuery_CSD_CheckPath.cpp.obj",
+			"EnvQuery_CSD_Distance.cpp.obj",
+			"EnvQuery_CSD_DistanceToVector.cpp.obj",
+			"EnvQuery_CustomScoreDefine.cpp.obj",
+			"HidingLocSearch_EnemyProperties.cpp.obj",
+			"MyEnvQueryTest_PointsNearEdges.cpp.obj",
+			"NavClimbingComponentCore.cpp.obj",
+			"NavLinksAutoGenerator.cpp.obj",
+			"NavLinksStorage.cpp.obj",
+			"NavQuery_FullNavPathFinding.cpp.obj",
+			"NavQuery_HidingLocSearchParams.cpp.obj",
+			"SmoothPathFollowingComponent.cpp.obj"
+		]
+	}
+}
