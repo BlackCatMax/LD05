@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\jakubcablecomponent\\source\\jakubcablecomponent\\private\\handleforitemcpp.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\ue5.6\\agls v1.6.0\\intermediate\\build\\win64\\x64\\agls\\shipping\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\jakubcablecomponent\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\jakubcablecomponent\\definitions.jakubcablecomponent.h",
+            "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\jakubcablecomponent\\source\\jakubcablecomponent\\public\\handleforitemcpp.h",
+            "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\jakubcablecomponent\\source\\jakubcablecomponent\\public\\jakubsimpleparticlecomponent.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\arrowcomponent.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\arrowcomponent.generated.h",
+            "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\jakubcablecomponent\\intermediate\\build\\win64\\unrealgame\\inc\\jakubcablecomponent\\uht\\jakubsimpleparticlecomponent.generated.h",
+            "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\jakubcablecomponent\\intermediate\\build\\win64\\unrealgame\\inc\\jakubcablecomponent\\uht\\handleforitemcpp.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
