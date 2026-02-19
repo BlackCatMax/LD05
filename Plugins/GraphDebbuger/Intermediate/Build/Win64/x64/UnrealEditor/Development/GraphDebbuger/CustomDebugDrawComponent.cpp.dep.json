@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\source\\graphdebbuger\\private\\customdebugdrawcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\intermediate\\build\\win64\\x64\\agls_programingcppeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\graphdebbuger\\definitions.graphdebbuger.h",
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\source\\graphdebbuger\\public\\customdebugdrawcomponent.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\debug\\debugdrawcomponent.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\engine\\public\\debugrendersceneproxy.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\engine\\public\\dynamicmeshbuilder.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\debugdrawcomponent.generated.h",
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\intermediate\\build\\win64\\unrealeditor\\inc\\graphdebbuger\\uht\\customdebugdrawcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

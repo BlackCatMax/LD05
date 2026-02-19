@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\source\\graphdebbuger\\private\\graphdebbuger.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\intermediate\\build\\win64\\x64\\agls_programingcppeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\graphdebbuger\\definitions.graphdebbuger.h",
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\source\\graphdebbuger\\public\\graphdebbuger.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

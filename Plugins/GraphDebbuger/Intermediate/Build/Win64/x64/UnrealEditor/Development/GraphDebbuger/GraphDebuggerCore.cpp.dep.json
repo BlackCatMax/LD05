@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\source\\graphdebbuger\\private\\graphdebuggercore.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\intermediate\\build\\win64\\x64\\agls_programingcppeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\graphdebbuger\\definitions.graphdebbuger.h",
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\source\\graphdebbuger\\public\\graphdebuggercore.h",
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\intermediate\\build\\win64\\unrealeditor\\inc\\graphdebbuger\\uht\\graphdebuggercore.generated.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\canvas.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\engine\\public\\canvasitem.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\font.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\fontimportoptions.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\fontimportoptions.generated.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\slatecore\\public\\fonts\\fontproviderinterface.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\slatecore\\uht\\fontproviderinterface.generated.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\font.generated.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\engine\\public\\canvastypes.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\canvastypes.generated.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\canvas.generated.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetmathlibrary.generated.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

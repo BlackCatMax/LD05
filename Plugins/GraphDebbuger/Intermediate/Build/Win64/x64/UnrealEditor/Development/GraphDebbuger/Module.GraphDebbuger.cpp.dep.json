@@ -1,0 +1,38 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\graphdebbuger\\module.graphdebbuger.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\intermediate\\build\\win64\\x64\\agls_programingcppeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\graphdebbuger\\definitions.graphdebbuger.h",
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\intermediate\\build\\win64\\unrealeditor\\inc\\graphdebbuger\\uht\\agls_editorcommands.gen.cpp",
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\source\\graphdebbuger\\public\\agls_editorcommands.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\intermediate\\build\\win64\\unrealeditor\\inc\\graphdebbuger\\uht\\agls_editorcommands.generated.h",
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\intermediate\\build\\win64\\unrealeditor\\inc\\graphdebbuger\\uht\\customdebugdrawcomponent.gen.cpp",
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\source\\graphdebbuger\\public\\customdebugdrawcomponent.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\debug\\debugdrawcomponent.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\engine\\public\\debugrendersceneproxy.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\engine\\public\\dynamicmeshbuilder.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\debugdrawcomponent.generated.h",
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\intermediate\\build\\win64\\unrealeditor\\inc\\graphdebbuger\\uht\\customdebugdrawcomponent.generated.h",
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\intermediate\\build\\win64\\unrealeditor\\inc\\graphdebbuger\\uht\\graphdebbuger.init.gen.cpp",
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\intermediate\\build\\win64\\unrealeditor\\inc\\graphdebbuger\\uht\\graphdebbugerbplibrary.gen.cpp",
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\source\\graphdebbuger\\public\\graphdebbugerbplibrary.h",
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\intermediate\\build\\win64\\unrealeditor\\inc\\graphdebbuger\\uht\\graphdebbugerbplibrary.generated.h",
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\intermediate\\build\\win64\\unrealeditor\\inc\\graphdebbuger\\uht\\graphdebuggercore.gen.cpp",
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\source\\graphdebbuger\\public\\graphdebuggercore.h",
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\intermediate\\build\\win64\\unrealeditor\\inc\\graphdebbuger\\uht\\graphdebuggercore.generated.h",
+            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\graphdebbuger\\permoduleinline.gen.cpp",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

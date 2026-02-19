@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GraphDebbuger.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/Unreal Projects/UE5.6/AGLS_ProgramingCpp 5.6/Intermediate/Build/Win64/x64/AGLS_ProgramingCppEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"D:/Unreal Projects/UE5.6/AGLS_ProgramingCpp 5.6/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/Module.GraphDebbuger.cpp.obj"
+"D:/Unreal Projects/UE5.6/AGLS_ProgramingCpp 5.6/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/AGLS_EditorCommands.cpp.obj"
+"D:/Unreal Projects/UE5.6/AGLS_ProgramingCpp 5.6/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/CustomDebugDrawComponent.cpp.obj"
+"D:/Unreal Projects/UE5.6/AGLS_ProgramingCpp 5.6/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/GraphDebbuger.cpp.obj"
+"D:/Unreal Projects/UE5.6/AGLS_ProgramingCpp 5.6/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/GraphDebbugerBPLibrary.cpp.obj"
+"D:/Unreal Projects/UE5.6/AGLS_ProgramingCpp 5.6/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/GraphDebuggerCore.cpp.obj"
+"D:/Unreal Projects/UE5.6/AGLS_ProgramingCpp 5.6/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/Default.rc2.res"
+/OUT:"D:/Unreal Projects/UE5.6/AGLS_ProgramingCpp 5.6/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/UnrealEditor-GraphDebbuger.lib"
