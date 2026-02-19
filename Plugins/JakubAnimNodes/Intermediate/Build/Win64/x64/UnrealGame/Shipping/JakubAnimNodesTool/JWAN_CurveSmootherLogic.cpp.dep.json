@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\jakubanimnodes\\source\\jakubanimnodestool\\private\\jwan_curvesmootherlogic.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\ue5.6\\agls v1.6.0\\intermediate\\build\\win64\\x64\\agls\\shipping\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\jakubanimnodes\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\jakubanimnodestool\\definitions.jakubanimnodestool.h",
+            "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\jakubanimnodes\\source\\jakubanimnodestool\\public\\jwan_curvesmootherlogic.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\animation\\inputscalebias.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\inputscalebias.generated.h",
+            "d:\\unreal projects\\ue5.6\\agls v1.6.0\\plugins\\jakubanimnodes\\intermediate\\build\\win64\\unrealgame\\inc\\jakubanimnodestool\\uht\\jwan_curvesmootherlogic.generated.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\engine\\public\\animation\\animinstanceproxy.h",
+            "d:\\program files\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\animinstanceproxy.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
