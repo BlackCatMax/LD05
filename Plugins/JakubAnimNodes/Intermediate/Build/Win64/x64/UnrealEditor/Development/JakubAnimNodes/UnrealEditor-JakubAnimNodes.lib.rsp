@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-JakubAnimNodes.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"I:/LD05/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
-"I:/LD05/Plugins/JakubAnimNodes/Intermediate/Build/Win64/x64/UnrealEditor/Development/JakubAnimNodes/Module.JakubAnimNodes.cpp.obj"
-"I:/LD05/Plugins/JakubAnimNodes/Intermediate/Build/Win64/x64/UnrealEditor/Development/JakubAnimNodes/Default.rc2.res"
-/OUT:"I:/LD05/Plugins/JakubAnimNodes/Intermediate/Build/Win64/x64/UnrealEditor/Development/JakubAnimNodes/UnrealEditor-JakubAnimNodes.lib"
+"D:/LD05/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/LD05/Plugins/JakubAnimNodes/Intermediate/Build/Win64/x64/UnrealEditor/Development/JakubAnimNodes/Module.JakubAnimNodes.cpp.obj"
+"D:/LD05/Plugins/JakubAnimNodes/Intermediate/Build/Win64/x64/UnrealEditor/Development/JakubAnimNodes/Default.rc2.res"
+/OUT:"D:/LD05/Plugins/JakubAnimNodes/Intermediate/Build/Win64/x64/UnrealEditor/Development/JakubAnimNodes/UnrealEditor-JakubAnimNodes.lib"

@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ClimbingNavigation.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"I:/LD05/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"I:/LD05/Plugins/ClimbingNavigation/Intermediate/Build/Win64/x64/UnrealEditor/Development/ClimbingNavigation/Module.ClimbingNavigation.1.cpp.obj"
+"I:/LD05/Plugins/ClimbingNavigation/Intermediate/Build/Win64/x64/UnrealEditor/Development/ClimbingNavigation/Module.ClimbingNavigation.2.cpp.obj"
+"I:/LD05/Plugins/ClimbingNavigation/Intermediate/Build/Win64/x64/UnrealEditor/Development/ClimbingNavigation/Module.ClimbingNavigation.3.cpp.obj"
+"I:/LD05/Plugins/ClimbingNavigation/Intermediate/Build/Win64/x64/UnrealEditor/Development/ClimbingNavigation/Default.rc2.res"
+/OUT:"I:/LD05/Plugins/ClimbingNavigation/Intermediate/Build/Win64/x64/UnrealEditor/Development/ClimbingNavigation/UnrealEditor-ClimbingNavigation.lib"
