@@ -803,7 +803,7 @@ UAdvancedAI_TasksAndFunctions::~UAdvancedAI_TasksAndFunctions() {}
 // ********** End Class UAdvancedAI_TasksAndFunctions **********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h__Script_ClimbingNavigation_Statics
+struct Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h__Script_ClimbingNavigation_Statics
 {
 	static constexpr FEnumRegisterCompiledInInfo EnumInfo[] = {
 		{ CoverPointFinderWeightDebugMode_StaticEnum, TEXT("CoverPointFinderWeightDebugMode"), &Z_Registration_Info_UEnum_CoverPointFinderWeightDebugMode, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 1406320199U) },
@@ -813,10 +813,10 @@ struct Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_Climbing
 		{ Z_Construct_UClass_UAdvancedAI_TasksAndFunctions, UAdvancedAI_TasksAndFunctions::StaticClass, TEXT("UAdvancedAI_TasksAndFunctions"), &Z_Registration_Info_UClass_UAdvancedAI_TasksAndFunctions, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAdvancedAI_TasksAndFunctions), 2161095800U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h__Script_ClimbingNavigation_632223322(TEXT("/Script/ClimbingNavigation"),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h__Script_ClimbingNavigation_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h__Script_ClimbingNavigation_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h__Script_ClimbingNavigation_632223322(TEXT("/Script/ClimbingNavigation"),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h__Script_ClimbingNavigation_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h__Script_ClimbingNavigation_Statics::ClassInfo),
 	nullptr, 0,
-	Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h__Script_ClimbingNavigation_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h__Script_ClimbingNavigation_Statics::EnumInfo));
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h__Script_ClimbingNavigation_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h__Script_ClimbingNavigation_Statics::EnumInfo));
 // ********** End Registration *********************************************************************
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

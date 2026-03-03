@@ -166,14 +166,14 @@ UEnvQueryGenerator_NavCoverPoints::~UEnvQueryGenerator_NavCoverPoints() {}
 // ********** End Class UEnvQueryGenerator_NavCoverPoints ******************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryGenerator_NavCoverPoints_h__Script_ClimbingNavigation_Statics
+struct Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryGenerator_NavCoverPoints_h__Script_ClimbingNavigation_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UEnvQueryGenerator_NavCoverPoints, UEnvQueryGenerator_NavCoverPoints::StaticClass, TEXT("UEnvQueryGenerator_NavCoverPoints"), &Z_Registration_Info_UClass_UEnvQueryGenerator_NavCoverPoints, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UEnvQueryGenerator_NavCoverPoints), 3214716084U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryGenerator_NavCoverPoints_h__Script_ClimbingNavigation_462119255(TEXT("/Script/ClimbingNavigation"),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryGenerator_NavCoverPoints_h__Script_ClimbingNavigation_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryGenerator_NavCoverPoints_h__Script_ClimbingNavigation_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryGenerator_NavCoverPoints_h__Script_ClimbingNavigation_462119255(TEXT("/Script/ClimbingNavigation"),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryGenerator_NavCoverPoints_h__Script_ClimbingNavigation_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryGenerator_NavCoverPoints_h__Script_ClimbingNavigation_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

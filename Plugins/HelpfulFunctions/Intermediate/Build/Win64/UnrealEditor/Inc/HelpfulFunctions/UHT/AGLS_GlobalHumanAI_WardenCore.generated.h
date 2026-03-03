@@ -17,14 +17,14 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Class AAGLS_GlobalHumanAI_WardenCore *******************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_GlobalHumanAI_WardenCore_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_GlobalHumanAI_WardenCore_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execGetAgressiveModeBiasForPerception); \
 	DECLARE_FUNCTION(execGetNotSilentModeBiasForPerception);
 
 
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_AAGLS_GlobalHumanAI_WardenCore_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_GlobalHumanAI_WardenCore_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_GlobalHumanAI_WardenCore_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAAGLS_GlobalHumanAI_WardenCore(); \
 	friend struct Z_Construct_UClass_AAGLS_GlobalHumanAI_WardenCore_Statics; \
@@ -35,7 +35,7 @@ public: \
 	DECLARE_SERIALIZER(AAGLS_GlobalHumanAI_WardenCore)
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_GlobalHumanAI_WardenCore_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_GlobalHumanAI_WardenCore_h_12_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AAGLS_GlobalHumanAI_WardenCore(AAGLS_GlobalHumanAI_WardenCore&&) = delete; \
 	AAGLS_GlobalHumanAI_WardenCore(const AAGLS_GlobalHumanAI_WardenCore&) = delete; \
@@ -45,13 +45,13 @@ public: \
 	NO_API virtual ~AAGLS_GlobalHumanAI_WardenCore();
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_GlobalHumanAI_WardenCore_h_9_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_GlobalHumanAI_WardenCore_h_12_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_GlobalHumanAI_WardenCore_h_9_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_GlobalHumanAI_WardenCore_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_GlobalHumanAI_WardenCore_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_GlobalHumanAI_WardenCore_h_12_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_GlobalHumanAI_WardenCore_h_12_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_GlobalHumanAI_WardenCore_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_GlobalHumanAI_WardenCore_h_12_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_GlobalHumanAI_WardenCore_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -61,6 +61,6 @@ class AAGLS_GlobalHumanAI_WardenCore;
 // ********** End Class AAGLS_GlobalHumanAI_WardenCore *********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_GlobalHumanAI_WardenCore_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_GlobalHumanAI_WardenCore_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

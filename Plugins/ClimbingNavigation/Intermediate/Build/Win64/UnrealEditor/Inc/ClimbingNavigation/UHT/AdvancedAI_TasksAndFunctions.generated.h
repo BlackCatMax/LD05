@@ -26,7 +26,7 @@ class UNavQuery_HidingLocSearchParams;
 struct FClimbNav_FullPathData;
 
 // ********** Begin Class UAdvancedAI_TasksAndFunctions ********************************************
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h_43_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h_43_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execDrawResultFromTotalNavPath); \
 	DECLARE_FUNCTION(execTryFindPathToActorIncludingNavClimb); \
 	DECLARE_FUNCTION(execDetectedByFakeSightPerception); \
@@ -36,7 +36,7 @@ struct FClimbNav_FullPathData;
 
 CLIMBINGNAVIGATION_API UClass* Z_Construct_UClass_UAdvancedAI_TasksAndFunctions_NoRegister();
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h_43_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h_43_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAdvancedAI_TasksAndFunctions(); \
 	friend struct Z_Construct_UClass_UAdvancedAI_TasksAndFunctions_Statics; \
@@ -47,7 +47,7 @@ public: \
 	DECLARE_SERIALIZER(UAdvancedAI_TasksAndFunctions)
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h_43_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h_43_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UAdvancedAI_TasksAndFunctions(UAdvancedAI_TasksAndFunctions&&) = delete; \
 	UAdvancedAI_TasksAndFunctions(const UAdvancedAI_TasksAndFunctions&) = delete; \
@@ -57,13 +57,13 @@ public: \
 	NO_API virtual ~UAdvancedAI_TasksAndFunctions();
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h_40_PROLOG
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h_43_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h_40_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h_43_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h_43_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h_43_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h_43_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h_43_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h_43_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h_43_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -73,7 +73,7 @@ class UAdvancedAI_TasksAndFunctions;
 // ********** End Class UAdvancedAI_TasksAndFunctions **********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AdvancedAI_TasksAndFunctions_h
 
 // ********** Begin Enum CoverPointFinderWeightDebugMode *******************************************
 #define FOREACH_ENUM_COVERPOINTFINDERWEIGHTDEBUGMODE(op) \

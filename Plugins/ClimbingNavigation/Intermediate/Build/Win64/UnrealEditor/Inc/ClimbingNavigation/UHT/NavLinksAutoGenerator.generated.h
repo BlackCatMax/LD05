@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin ScriptStruct FNavLinks_SingleLine **********************************************
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h_15_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h_15_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FNavLinks_SingleLine_Statics; \
 	CLIMBINGNAVIGATION_API static class UScriptStruct* StaticStruct(); \
 	typedef FTableRowBase Super;
@@ -27,7 +27,7 @@ struct FNavLinks_SingleLine;
 // ********** End ScriptStruct FNavLinks_SingleLine ************************************************
 
 // ********** Begin ScriptStruct FNavLinks_FloorEdges **********************************************
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h_34_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h_34_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FNavLinks_FloorEdges_Statics; \
 	CLIMBINGNAVIGATION_API static class UScriptStruct* StaticStruct(); \
 	typedef FTableRowBase Super;
@@ -37,13 +37,13 @@ struct FNavLinks_FloorEdges;
 // ********** End ScriptStruct FNavLinks_FloorEdges ************************************************
 
 // ********** Begin Class ANavLinksAutoGenerator ***************************************************
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h_53_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h_53_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execGenerateNavLinks);
 
 
 CLIMBINGNAVIGATION_API UClass* Z_Construct_UClass_ANavLinksAutoGenerator_NoRegister();
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h_53_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h_53_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesANavLinksAutoGenerator(); \
 	friend struct Z_Construct_UClass_ANavLinksAutoGenerator_Statics; \
@@ -54,7 +54,7 @@ public: \
 	DECLARE_SERIALIZER(ANavLinksAutoGenerator)
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h_53_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h_53_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	ANavLinksAutoGenerator(ANavLinksAutoGenerator&&) = delete; \
 	ANavLinksAutoGenerator(const ANavLinksAutoGenerator&) = delete; \
@@ -64,13 +64,13 @@ public: \
 	NO_API virtual ~ANavLinksAutoGenerator();
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h_50_PROLOG
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h_53_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h_50_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h_53_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h_53_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h_53_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h_53_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h_53_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h_53_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h_53_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -80,6 +80,6 @@ class ANavLinksAutoGenerator;
 // ********** End Class ANavLinksAutoGenerator *****************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

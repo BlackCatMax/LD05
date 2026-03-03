@@ -19,10 +19,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 class AActor;
 
 // ********** Begin Class UEnvQuery_CustomScoreDefine **********************************************
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CustomScoreDefine_h_19_CALLBACK_WRAPPERS
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CustomScoreDefine_h_19_CALLBACK_WRAPPERS
 CLIMBINGNAVIGATION_API UClass* Z_Construct_UClass_UEnvQuery_CustomScoreDefine_NoRegister();
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CustomScoreDefine_h_19_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CustomScoreDefine_h_19_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUEnvQuery_CustomScoreDefine(); \
 	friend struct Z_Construct_UClass_UEnvQuery_CustomScoreDefine_Statics; \
@@ -33,7 +33,7 @@ public: \
 	DECLARE_SERIALIZER(UEnvQuery_CustomScoreDefine)
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CustomScoreDefine_h_19_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CustomScoreDefine_h_19_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UEnvQuery_CustomScoreDefine(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -45,13 +45,13 @@ public: \
 	NO_API virtual ~UEnvQuery_CustomScoreDefine();
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CustomScoreDefine_h_16_PROLOG
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CustomScoreDefine_h_19_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CustomScoreDefine_h_16_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CustomScoreDefine_h_19_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CustomScoreDefine_h_19_CALLBACK_WRAPPERS \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CustomScoreDefine_h_19_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CustomScoreDefine_h_19_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CustomScoreDefine_h_19_CALLBACK_WRAPPERS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CustomScoreDefine_h_19_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CustomScoreDefine_h_19_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -61,6 +61,6 @@ class UEnvQuery_CustomScoreDefine;
 // ********** End Class UEnvQuery_CustomScoreDefine ************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CustomScoreDefine_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CustomScoreDefine_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -121,14 +121,14 @@ UAGLS_NavLinkCustomComponent::~UAGLS_NavLinkCustomComponent() {}
 // ********** End Class UAGLS_NavLinkCustomComponent ***********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AGLS_NavLinkCustomComponent_h__Script_ClimbingNavigation_Statics
+struct Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AGLS_NavLinkCustomComponent_h__Script_ClimbingNavigation_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UAGLS_NavLinkCustomComponent, UAGLS_NavLinkCustomComponent::StaticClass, TEXT("UAGLS_NavLinkCustomComponent"), &Z_Registration_Info_UClass_UAGLS_NavLinkCustomComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAGLS_NavLinkCustomComponent), 2744954785U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AGLS_NavLinkCustomComponent_h__Script_ClimbingNavigation_1594120662(TEXT("/Script/ClimbingNavigation"),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AGLS_NavLinkCustomComponent_h__Script_ClimbingNavigation_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AGLS_NavLinkCustomComponent_h__Script_ClimbingNavigation_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AGLS_NavLinkCustomComponent_h__Script_ClimbingNavigation_1594120662(TEXT("/Script/ClimbingNavigation"),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AGLS_NavLinkCustomComponent_h__Script_ClimbingNavigation_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AGLS_NavLinkCustomComponent_h__Script_ClimbingNavigation_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

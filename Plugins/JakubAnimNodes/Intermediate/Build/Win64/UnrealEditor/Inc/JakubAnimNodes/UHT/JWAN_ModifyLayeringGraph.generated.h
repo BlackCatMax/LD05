@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class UJWAN_ModifyLayeringGraph ************************************************
 JAKUBANIMNODES_API UClass* Z_Construct_UClass_UJWAN_ModifyLayeringGraph_NoRegister();
 
-#define FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_ModifyLayeringGraph_h_19_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_ModifyLayeringGraph_h_19_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUJWAN_ModifyLayeringGraph(); \
 	friend struct Z_Construct_UClass_UJWAN_ModifyLayeringGraph_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(UJWAN_ModifyLayeringGraph)
 
 
-#define FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_ModifyLayeringGraph_h_19_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_ModifyLayeringGraph_h_19_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	JAKUBANIMNODES_API UJWAN_ModifyLayeringGraph(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -42,12 +42,12 @@ public: \
 	JAKUBANIMNODES_API virtual ~UJWAN_ModifyLayeringGraph();
 
 
-#define FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_ModifyLayeringGraph_h_16_PROLOG
-#define FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_ModifyLayeringGraph_h_19_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_ModifyLayeringGraph_h_16_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_ModifyLayeringGraph_h_19_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_ModifyLayeringGraph_h_19_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_ModifyLayeringGraph_h_19_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_ModifyLayeringGraph_h_19_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_ModifyLayeringGraph_h_19_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -57,6 +57,6 @@ class UJWAN_ModifyLayeringGraph;
 // ********** End Class UJWAN_ModifyLayeringGraph **************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_ModifyLayeringGraph_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_ModifyLayeringGraph_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

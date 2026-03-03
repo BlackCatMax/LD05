@@ -20,7 +20,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 struct FGameplayAttributeData;
 
 // ********** Begin Class UIWALS_BaseAttributeSet **************************************************
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_BaseAttributeSet_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_BaseAttributeSet_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execOnRep_Experience); \
 	DECLARE_FUNCTION(execOnRep_AttackMultiply); \
 	DECLARE_FUNCTION(execOnRep_Armor); \
@@ -29,7 +29,7 @@ struct FGameplayAttributeData;
 
 IWALS_ABILITYSYSTEM_API UClass* Z_Construct_UClass_UIWALS_BaseAttributeSet_NoRegister();
 
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_BaseAttributeSet_h_21_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_BaseAttributeSet_h_21_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUIWALS_BaseAttributeSet(); \
 	friend struct Z_Construct_UClass_UIWALS_BaseAttributeSet_Statics; \
@@ -52,7 +52,7 @@ private: \
 public:
 
 
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_BaseAttributeSet_h_21_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_BaseAttributeSet_h_21_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UIWALS_BaseAttributeSet(UIWALS_BaseAttributeSet&&) = delete; \
 	UIWALS_BaseAttributeSet(const UIWALS_BaseAttributeSet&) = delete; \
@@ -62,13 +62,13 @@ public:
 	NO_API virtual ~UIWALS_BaseAttributeSet();
 
 
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_BaseAttributeSet_h_18_PROLOG
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_BaseAttributeSet_h_21_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_BaseAttributeSet_h_18_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_BaseAttributeSet_h_21_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_BaseAttributeSet_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_BaseAttributeSet_h_21_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_BaseAttributeSet_h_21_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_BaseAttributeSet_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_BaseAttributeSet_h_21_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_BaseAttributeSet_h_21_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -78,6 +78,6 @@ class UIWALS_BaseAttributeSet;
 // ********** End Class UIWALS_BaseAttributeSet ****************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_BaseAttributeSet_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_BaseAttributeSet_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

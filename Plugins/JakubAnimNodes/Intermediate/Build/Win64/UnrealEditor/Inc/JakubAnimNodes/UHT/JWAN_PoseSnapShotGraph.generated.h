@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class UJWAN_PoseSnapShotGraph **************************************************
 JAKUBANIMNODES_API UClass* Z_Construct_UClass_UJWAN_PoseSnapShotGraph_NoRegister();
 
-#define FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_PoseSnapShotGraph_h_13_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_PoseSnapShotGraph_h_13_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUJWAN_PoseSnapShotGraph(); \
 	friend struct Z_Construct_UClass_UJWAN_PoseSnapShotGraph_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(UJWAN_PoseSnapShotGraph)
 
 
-#define FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_PoseSnapShotGraph_h_13_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_PoseSnapShotGraph_h_13_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UJWAN_PoseSnapShotGraph(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -42,12 +42,12 @@ public: \
 	NO_API virtual ~UJWAN_PoseSnapShotGraph();
 
 
-#define FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_PoseSnapShotGraph_h_10_PROLOG
-#define FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_PoseSnapShotGraph_h_13_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_PoseSnapShotGraph_h_10_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_PoseSnapShotGraph_h_13_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_PoseSnapShotGraph_h_13_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_PoseSnapShotGraph_h_13_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_PoseSnapShotGraph_h_13_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_PoseSnapShotGraph_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -57,6 +57,6 @@ class UJWAN_PoseSnapShotGraph;
 // ********** End Class UJWAN_PoseSnapShotGraph ****************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_PoseSnapShotGraph_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_JWAN_PoseSnapShotGraph_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

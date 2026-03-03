@@ -29,7 +29,7 @@ struct FColor;
 struct FHitResult;
 
 // ********** Begin Interface UAGLS_AI_HumanCharInterface ******************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
 	virtual void BPI_HCAI_Get_IsClimbing_Implementation(bool& IsClimbing) {}; \
 	virtual void BPI_HCAI_Set_IsClimbing_Implementation(bool StartClimbing) {}; \
 	virtual void BPI_HCAI_Set_InitializationData_Implementation(bool& Updated, AActor* PathActor, CALS_OverlayState PatrolingOverlay, CALS_GroundedMoveMode GroundedWalkType, bool HaveRifle, bool HavePistol, uint8 RifleModelIndex, uint8 PistolModelIndex, bool UseSolid, bool HaveGolves, int32 ShirtType, int32 PantsType, FColor SolidColor, FColor SkinColor, FColor ShirtColor, FColor PantsColor, FColor ShoesColor, FColor GlovesColor) {}; \
@@ -74,10 +74,10 @@ struct FHitResult;
 	DECLARE_FUNCTION(execBPI_HCAI_DeathSectionByMeleeCombat);
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_13_CALLBACK_WRAPPERS
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_13_CALLBACK_WRAPPERS
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UAGLS_AI_HumanCharInterface_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_13_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_13_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	HELPFULFUNCTIONS_API UAGLS_AI_HumanCharInterface(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -89,7 +89,7 @@ HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UAGLS_AI_HumanCharInterface_NoRe
 	virtual ~UAGLS_AI_HumanCharInterface() = default;
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_13_GENERATED_UINTERFACE_BODY() \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_13_GENERATED_UINTERFACE_BODY() \
 private: \
 	static void StaticRegisterNativesUAGLS_AI_HumanCharInterface(); \
 	friend struct Z_Construct_UClass_UAGLS_AI_HumanCharInterface_Statics; \
@@ -100,15 +100,15 @@ public: \
 	DECLARE_SERIALIZER(UAGLS_AI_HumanCharInterface)
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_13_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_13_GENERATED_BODY \
 	PRAGMA_DISABLE_DEPRECATION_WARNINGS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_13_GENERATED_UINTERFACE_BODY() \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_13_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_13_GENERATED_UINTERFACE_BODY() \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 	PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_13_INCLASS_IINTERFACE_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_13_INCLASS_IINTERFACE_NO_PURE_DECLS \
 protected: \
 	virtual ~IAGLS_AI_HumanCharInterface() {} \
 public: \
@@ -138,13 +138,13 @@ public: \
 	virtual UObject* _getUObject() const { return nullptr; }
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_10_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_21_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_10_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_21_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_13_CALLBACK_WRAPPERS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_13_INCLASS_IINTERFACE_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_13_CALLBACK_WRAPPERS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h_13_INCLASS_IINTERFACE_NO_PURE_DECLS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -154,6 +154,6 @@ class UAGLS_AI_HumanCharInterface;
 // ********** End Interface UAGLS_AI_HumanCharInterface ********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_HumanCharInterface_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

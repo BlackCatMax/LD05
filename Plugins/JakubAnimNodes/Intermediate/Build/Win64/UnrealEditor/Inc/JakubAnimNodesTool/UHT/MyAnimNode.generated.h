@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin ScriptStruct FAnimNode_LayeredBone *********************************************
-#define FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_MyAnimNode_h_24_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_MyAnimNode_h_24_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAnimNode_LayeredBone_Statics; \
 	static class UScriptStruct* StaticStruct(); \
 	typedef FAnimNode_Base Super;
@@ -27,7 +27,7 @@ struct FAnimNode_LayeredBone;
 // ********** End ScriptStruct FAnimNode_LayeredBone ***********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_MyAnimNode_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_MyAnimNode_h
 
 // ********** Begin Enum ELayeredBlendMode *********************************************************
 #define FOREACH_ENUM_ELAYEREDBLENDMODE(op) \

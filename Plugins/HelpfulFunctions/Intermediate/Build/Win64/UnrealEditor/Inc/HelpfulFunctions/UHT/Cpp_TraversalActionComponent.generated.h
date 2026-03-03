@@ -29,7 +29,7 @@ struct FTraversalCollisionCheck;
 struct FTraversalTraceSettings;
 
 // ********** Begin ScriptStruct FTraversalCollisionCheck ******************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_46_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_46_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FTraversalCollisionCheck_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct();
 
@@ -38,7 +38,7 @@ struct FTraversalCollisionCheck;
 // ********** End ScriptStruct FTraversalCollisionCheck ********************************************
 
 // ********** Begin ScriptStruct FTraversalChooserValues *******************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_92_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_92_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FTraversalChooserValues_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct();
 
@@ -47,7 +47,7 @@ struct FTraversalChooserValues;
 // ********** End ScriptStruct FTraversalChooserValues *********************************************
 
 // ********** Begin ScriptStruct FTraversalTraceSettings *******************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_113_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_113_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FTraversalTraceSettings_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct();
 
@@ -56,7 +56,7 @@ struct FTraversalTraceSettings;
 // ********** End ScriptStruct FTraversalTraceSettings *********************************************
 
 // ********** Begin ScriptStruct FTraversalGroundInfo **********************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_146_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_146_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FTraversalGroundInfo_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct();
 
@@ -65,7 +65,7 @@ struct FTraversalGroundInfo;
 // ********** End ScriptStruct FTraversalGroundInfo ************************************************
 
 // ********** Begin ScriptStruct FTraversalJumpTrajectory ******************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_164_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_164_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FTraversalJumpTrajectory_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct();
 
@@ -74,7 +74,7 @@ struct FTraversalJumpTrajectory;
 // ********** End ScriptStruct FTraversalJumpTrajectory ********************************************
 
 // ********** Begin ScriptStruct FMantleChooserValues **********************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_194_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_194_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FMantleChooserValues_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct();
 
@@ -83,14 +83,14 @@ struct FMantleChooserValues;
 // ********** End ScriptStruct FMantleChooserValues ************************************************
 
 // ********** Begin Delegate FOnTraversalActionChanged *********************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_218_DELEGATE \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_218_DELEGATE \
 HELPFULFUNCTIONS_API void FOnTraversalActionChanged_DelegateWrapper(const FMulticastScriptDelegate& OnTraversalActionChanged, bool ActionStarted, float ActionDuration);
 
 
 // ********** End Delegate FOnTraversalActionChanged ***********************************************
 
 // ********** Begin Class UCpp_TraversalActionComponent ********************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_224_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_224_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execTryGetTraversalComponent); \
 	DECLARE_FUNCTION(execUpdateOffsetsForCharacter); \
 	DECLARE_FUNCTION(execToCapsuleLocation); \
@@ -115,10 +115,10 @@ HELPFULFUNCTIONS_API void FOnTraversalActionChanged_DelegateWrapper(const FMulti
 	DECLARE_FUNCTION(execCallOnTraversalDeleage);
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_224_CALLBACK_WRAPPERS
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_224_CALLBACK_WRAPPERS
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UCpp_TraversalActionComponent_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_224_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_224_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUCpp_TraversalActionComponent(); \
 	friend struct Z_Construct_UClass_UCpp_TraversalActionComponent_Statics; \
@@ -129,7 +129,7 @@ public: \
 	DECLARE_SERIALIZER(UCpp_TraversalActionComponent)
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_224_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_224_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UCpp_TraversalActionComponent(UCpp_TraversalActionComponent&&) = delete; \
 	UCpp_TraversalActionComponent(const UCpp_TraversalActionComponent&) = delete; \
@@ -139,14 +139,14 @@ public: \
 	NO_API virtual ~UCpp_TraversalActionComponent();
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_221_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_224_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_221_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_224_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_224_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_224_CALLBACK_WRAPPERS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_224_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_224_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_224_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_224_CALLBACK_WRAPPERS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_224_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h_224_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -156,7 +156,7 @@ class UCpp_TraversalActionComponent;
 // ********** End Class UCpp_TraversalActionComponent **********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h
 
 // ********** Begin Enum CALS_TraversalAction ******************************************************
 #define FOREACH_ENUM_CALS_TRAVERSALACTION(op) \

@@ -21,14 +21,14 @@ class UAnimMontage;
 class UAnimSequence;
 
 // ********** Begin Class UAsyncFunctionsPlayer ****************************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execPlayDynamicMontageAsync); \
 	DECLARE_FUNCTION(execMontagePlayAsync);
 
 
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UAsyncFunctionsPlayer_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAsyncFunctionsPlayer(); \
 	friend struct Z_Construct_UClass_UAsyncFunctionsPlayer_Statics; \
@@ -39,7 +39,7 @@ public: \
 	DECLARE_SERIALIZER(UAsyncFunctionsPlayer)
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_15_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UAsyncFunctionsPlayer(UAsyncFunctionsPlayer&&) = delete; \
 	UAsyncFunctionsPlayer(const UAsyncFunctionsPlayer&) = delete; \
@@ -49,13 +49,13 @@ public: \
 	NO_API virtual ~UAsyncFunctionsPlayer();
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_12_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_15_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_12_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_15_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_15_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_15_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -65,6 +65,6 @@ class UAsyncFunctionsPlayer;
 // ********** End Class UAsyncFunctionsPlayer ******************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncFunctionsPlayer_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

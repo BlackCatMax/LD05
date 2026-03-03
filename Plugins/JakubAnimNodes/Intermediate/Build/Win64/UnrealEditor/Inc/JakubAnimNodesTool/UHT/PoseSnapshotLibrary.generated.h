@@ -25,7 +25,7 @@ struct FPoseSnapshot;
 struct FPoseSnapshotReference;
 
 // ********** Begin ScriptStruct FPoseSnapshotReference ********************************************
-#define FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h_16_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h_16_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FPoseSnapshotReference_Statics; \
 	JAKUBANIMNODESTOOL_API static class UScriptStruct* StaticStruct(); \
 	typedef FAnimNodeReference Super;
@@ -35,7 +35,7 @@ struct FPoseSnapshotReference;
 // ********** End ScriptStruct FPoseSnapshotReference **********************************************
 
 // ********** Begin Class UPoseSnapshotLibrary *****************************************************
-#define FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execGetBoneParents); \
 	DECLARE_FUNCTION(execDrawSkeletonFromPoseSnapshot); \
 	DECLARE_FUNCTION(execGetBoneTransformFromPoseSnapshot); \
@@ -45,7 +45,7 @@ struct FPoseSnapshotReference;
 
 JAKUBANIMNODESTOOL_API UClass* Z_Construct_UClass_UPoseSnapshotLibrary_NoRegister();
 
-#define FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h_25_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h_25_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUPoseSnapshotLibrary(); \
 	friend struct Z_Construct_UClass_UPoseSnapshotLibrary_Statics; \
@@ -56,7 +56,7 @@ public: \
 	DECLARE_SERIALIZER(UPoseSnapshotLibrary)
 
 
-#define FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h_25_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h_25_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UPoseSnapshotLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -68,13 +68,13 @@ public: \
 	NO_API virtual ~UPoseSnapshotLibrary();
 
 
-#define FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h_22_PROLOG
-#define FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h_25_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h_22_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h_25_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h_25_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h_25_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h_25_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h_25_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -84,6 +84,6 @@ class UPoseSnapshotLibrary;
 // ********** End Class UPoseSnapshotLibrary *******************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

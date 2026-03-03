@@ -20,20 +20,20 @@ class UAbilityTask_TimerFunction;
 class UGameplayAbility;
 
 // ********** Begin Delegate FExecuteTickDelegate **************************************************
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_AbilityTask_TimerFunction_h_11_DELEGATE \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_AbilityTask_TimerFunction_h_11_DELEGATE \
 IWALS_ABILITYSYSTEM_API void FExecuteTickDelegate_DelegateWrapper(const FMulticastScriptDelegate& ExecuteTickDelegate);
 
 
 // ********** End Delegate FExecuteTickDelegate ****************************************************
 
 // ********** Begin Class UAbilityTask_TimerFunction ***********************************************
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_AbilityTask_TimerFunction_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_AbilityTask_TimerFunction_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execRunTimerTask);
 
 
 IWALS_ABILITYSYSTEM_API UClass* Z_Construct_UClass_UAbilityTask_TimerFunction_NoRegister();
 
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_AbilityTask_TimerFunction_h_16_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_AbilityTask_TimerFunction_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAbilityTask_TimerFunction(); \
 	friend struct Z_Construct_UClass_UAbilityTask_TimerFunction_Statics; \
@@ -44,7 +44,7 @@ public: \
 	DECLARE_SERIALIZER(UAbilityTask_TimerFunction)
 
 
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_AbilityTask_TimerFunction_h_16_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_AbilityTask_TimerFunction_h_16_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAbilityTask_TimerFunction(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -56,13 +56,13 @@ public: \
 	NO_API virtual ~UAbilityTask_TimerFunction();
 
 
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_AbilityTask_TimerFunction_h_13_PROLOG
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_AbilityTask_TimerFunction_h_16_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_AbilityTask_TimerFunction_h_13_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_AbilityTask_TimerFunction_h_16_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_AbilityTask_TimerFunction_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_AbilityTask_TimerFunction_h_16_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_AbilityTask_TimerFunction_h_16_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_AbilityTask_TimerFunction_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_AbilityTask_TimerFunction_h_16_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_AbilityTask_TimerFunction_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -72,6 +72,6 @@ class UAbilityTask_TimerFunction;
 // ********** End Class UAbilityTask_TimerFunction *************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_AbilityTask_TimerFunction_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_AbilityTask_TimerFunction_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

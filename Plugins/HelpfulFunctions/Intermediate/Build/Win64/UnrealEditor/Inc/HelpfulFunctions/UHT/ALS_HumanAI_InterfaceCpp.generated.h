@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 class ACharacter;
 
 // ********** Begin Interface UALS_HumanAI_InterfaceCpp ********************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
 	virtual void HAI_DrawDebugTraces_Implementation(bool& DrawDebug) {}; \
 	virtual void HAI_GetDetectedEnemy_Implementation(bool& DetectedEnemy, bool& IsSelfEnemy) {}; \
 	virtual void HAI_GetHumanAIValues_Implementation(bool& HavePistol, bool& HaveRifle, bool& IsSiting, bool& IsHostage) {}; \
@@ -34,10 +34,10 @@ class ACharacter;
 	DECLARE_FUNCTION(execHAI_GetDeathState);
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_14_CALLBACK_WRAPPERS
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_14_CALLBACK_WRAPPERS
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UALS_HumanAI_InterfaceCpp_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_14_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_14_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	HELPFULFUNCTIONS_API UALS_HumanAI_InterfaceCpp(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -49,7 +49,7 @@ HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UALS_HumanAI_InterfaceCpp_NoRegi
 	virtual ~UALS_HumanAI_InterfaceCpp() = default;
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_14_GENERATED_UINTERFACE_BODY() \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_14_GENERATED_UINTERFACE_BODY() \
 private: \
 	static void StaticRegisterNativesUALS_HumanAI_InterfaceCpp(); \
 	friend struct Z_Construct_UClass_UALS_HumanAI_InterfaceCpp_Statics; \
@@ -60,15 +60,15 @@ public: \
 	DECLARE_SERIALIZER(UALS_HumanAI_InterfaceCpp)
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_14_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_14_GENERATED_BODY \
 	PRAGMA_DISABLE_DEPRECATION_WARNINGS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_14_GENERATED_UINTERFACE_BODY() \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_14_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_14_GENERATED_UINTERFACE_BODY() \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 	PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_14_INCLASS_IINTERFACE_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_14_INCLASS_IINTERFACE_NO_PURE_DECLS \
 protected: \
 	virtual ~IALS_HumanAI_InterfaceCpp() {} \
 public: \
@@ -84,13 +84,13 @@ public: \
 	virtual UObject* _getUObject() const { return nullptr; }
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_11_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_22_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_11_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_22_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_14_CALLBACK_WRAPPERS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_14_INCLASS_IINTERFACE_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_14_CALLBACK_WRAPPERS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h_14_INCLASS_IINTERFACE_NO_PURE_DECLS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -100,6 +100,6 @@ class UALS_HumanAI_InterfaceCpp;
 // ********** End Interface UALS_HumanAI_InterfaceCpp **********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_HumanAI_InterfaceCpp_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
