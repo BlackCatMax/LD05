@@ -20,7 +20,7 @@ struct FGameplayTag;
 struct FGameplayTagContainer;
 
 // ********** Begin ScriptStruct FMovementSettingsStrafe *******************************************
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h_19_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h_19_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FMovementSettingsStrafe_Statics; \
 	IWALS_ABILITYSYSTEM_API static class UScriptStruct* StaticStruct();
 
@@ -29,7 +29,7 @@ struct FMovementSettingsStrafe;
 // ********** End ScriptStruct FMovementSettingsStrafe *********************************************
 
 // ********** Begin Class AGAS_MainCharacterCpp ****************************************************
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h_41_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h_41_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execTryCreateInputsGAS); \
 	DECLARE_FUNCTION(execFilterTagsByRootGroup); \
 	DECLARE_FUNCTION(execSwitchOnOwnedTagsWithIgnore); \
@@ -46,10 +46,10 @@ struct FMovementSettingsStrafe;
 	DECLARE_FUNCTION(execGetTargetSpeedWithStrafeC);
 
 
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h_41_CALLBACK_WRAPPERS
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h_41_CALLBACK_WRAPPERS
 IWALS_ABILITYSYSTEM_API UClass* Z_Construct_UClass_AGAS_MainCharacterCpp_NoRegister();
 
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h_41_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h_41_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAGAS_MainCharacterCpp(); \
 	friend struct Z_Construct_UClass_AGAS_MainCharacterCpp_Statics; \
@@ -61,7 +61,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<AGAS_MainCharacterCpp*>(this); }
 
 
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h_41_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h_41_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AGAS_MainCharacterCpp(AGAS_MainCharacterCpp&&) = delete; \
 	AGAS_MainCharacterCpp(const AGAS_MainCharacterCpp&) = delete; \
@@ -71,14 +71,14 @@ public: \
 	NO_API virtual ~AGAS_MainCharacterCpp();
 
 
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h_38_PROLOG
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h_41_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h_38_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h_41_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h_41_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h_41_CALLBACK_WRAPPERS \
-	FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h_41_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h_41_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h_41_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h_41_CALLBACK_WRAPPERS \
+	FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h_41_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h_41_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -88,6 +88,6 @@ class AGAS_MainCharacterCpp;
 // ********** End Class AGAS_MainCharacterCpp ******************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_GAS_MainCharacterCpp_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

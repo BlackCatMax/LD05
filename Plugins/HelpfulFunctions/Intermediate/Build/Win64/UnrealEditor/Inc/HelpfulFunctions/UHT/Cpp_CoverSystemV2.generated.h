@@ -20,7 +20,7 @@ struct FCoverSystemMoveConfig;
 struct FHitResult;
 
 // ********** Begin ScriptStruct FCoverTraceStartConfig ********************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_12_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_12_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FCoverTraceStartConfig_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct();
 
@@ -29,7 +29,7 @@ struct FCoverTraceStartConfig;
 // ********** End ScriptStruct FCoverTraceStartConfig **********************************************
 
 // ********** Begin ScriptStruct FCoverSystemMoveConfig ********************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_32_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_32_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FCoverSystemMoveConfig_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct();
 
@@ -38,7 +38,7 @@ struct FCoverSystemMoveConfig;
 // ********** End ScriptStruct FCoverSystemMoveConfig **********************************************
 
 // ********** Begin Class UCpp_CoverSystemV2 *******************************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_59_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_59_RPC_WRAPPERS_NO_PURE_DECLS \
 	virtual FVector2D SetAxisValuesForCpp_Implementation(); \
 	virtual void FinishCoverModeC_Implementation(); \
 	virtual void StartCoverModeC_Implementation(bool& StartedCover); \
@@ -54,10 +54,10 @@ struct FCoverSystemMoveConfig;
 	DECLARE_FUNCTION(execTryStartCoverSystemC);
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_59_CALLBACK_WRAPPERS
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_59_CALLBACK_WRAPPERS
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UCpp_CoverSystemV2_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_59_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_59_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUCpp_CoverSystemV2(); \
 	friend struct Z_Construct_UClass_UCpp_CoverSystemV2_Statics; \
@@ -68,7 +68,7 @@ public: \
 	DECLARE_SERIALIZER(UCpp_CoverSystemV2)
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_59_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_59_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UCpp_CoverSystemV2(UCpp_CoverSystemV2&&) = delete; \
 	UCpp_CoverSystemV2(const UCpp_CoverSystemV2&) = delete; \
@@ -78,14 +78,14 @@ public: \
 	NO_API virtual ~UCpp_CoverSystemV2();
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_56_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_59_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_56_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_59_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_59_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_59_CALLBACK_WRAPPERS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_59_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_59_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_59_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_59_CALLBACK_WRAPPERS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_59_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h_59_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -95,6 +95,6 @@ class UCpp_CoverSystemV2;
 // ********** End Class UCpp_CoverSystemV2 *********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

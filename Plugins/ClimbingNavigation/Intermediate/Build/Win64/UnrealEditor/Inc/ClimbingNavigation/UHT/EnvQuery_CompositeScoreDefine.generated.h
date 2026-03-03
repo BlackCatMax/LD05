@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class UEnvQuery_CompositeScoreDefine *******************************************
 CLIMBINGNAVIGATION_API UClass* Z_Construct_UClass_UEnvQuery_CompositeScoreDefine_NoRegister();
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CompositeScoreDefine_h_32_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CompositeScoreDefine_h_32_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUEnvQuery_CompositeScoreDefine(); \
 	friend struct Z_Construct_UClass_UEnvQuery_CompositeScoreDefine_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(UEnvQuery_CompositeScoreDefine)
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CompositeScoreDefine_h_32_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CompositeScoreDefine_h_32_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UEnvQuery_CompositeScoreDefine(UEnvQuery_CompositeScoreDefine&&) = delete; \
 	UEnvQuery_CompositeScoreDefine(const UEnvQuery_CompositeScoreDefine&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~UEnvQuery_CompositeScoreDefine();
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CompositeScoreDefine_h_29_PROLOG
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CompositeScoreDefine_h_32_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CompositeScoreDefine_h_29_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CompositeScoreDefine_h_32_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CompositeScoreDefine_h_32_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CompositeScoreDefine_h_32_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CompositeScoreDefine_h_32_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CompositeScoreDefine_h_32_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,7 +55,7 @@ class UEnvQuery_CompositeScoreDefine;
 // ********** End Class UEnvQuery_CompositeScoreDefine *********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CompositeScoreDefine_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CompositeScoreDefine_h
 
 // ********** Begin Enum ECompositeScoreDistribution ***********************************************
 #define FOREACH_ENUM_ECOMPOSITESCOREDISTRIBUTION(op) \

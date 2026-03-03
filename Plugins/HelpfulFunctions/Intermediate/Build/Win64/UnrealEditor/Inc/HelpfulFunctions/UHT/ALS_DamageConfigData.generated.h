@@ -20,7 +20,7 @@ struct FBoneAndWeight;
 struct FRuntimeFloatCurve;
 
 // ********** Begin ScriptStruct FBoneAndWeight ****************************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_DamageConfigData_h_14_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_DamageConfigData_h_14_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBoneAndWeight_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct();
 
@@ -29,14 +29,14 @@ struct FBoneAndWeight;
 // ********** End ScriptStruct FBoneAndWeight ******************************************************
 
 // ********** Begin Class UALS_DamageConfigData ****************************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_DamageConfigData_h_41_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_DamageConfigData_h_41_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execGetWeightPerBoneC); \
 	DECLARE_FUNCTION(execGetScalingCurveValueC);
 
 
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UALS_DamageConfigData_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_DamageConfigData_h_41_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_DamageConfigData_h_41_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUALS_DamageConfigData(); \
 	friend struct Z_Construct_UClass_UALS_DamageConfigData_Statics; \
@@ -47,7 +47,7 @@ public: \
 	DECLARE_SERIALIZER(UALS_DamageConfigData)
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_DamageConfigData_h_41_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_DamageConfigData_h_41_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UALS_DamageConfigData(UALS_DamageConfigData&&) = delete; \
 	UALS_DamageConfigData(const UALS_DamageConfigData&) = delete; \
@@ -56,13 +56,13 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UALS_DamageConfigData)
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_DamageConfigData_h_38_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_DamageConfigData_h_41_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_DamageConfigData_h_38_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_DamageConfigData_h_41_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_DamageConfigData_h_41_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_DamageConfigData_h_41_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_DamageConfigData_h_41_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_DamageConfigData_h_41_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_DamageConfigData_h_41_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_DamageConfigData_h_41_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -72,7 +72,7 @@ class UALS_DamageConfigData;
 // ********** End Class UALS_DamageConfigData ******************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_DamageConfigData_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_DamageConfigData_h
 
 // ********** Begin Enum ECALS_WeaponType **********************************************************
 #define FOREACH_ENUM_ECALS_WEAPONTYPE(op) \

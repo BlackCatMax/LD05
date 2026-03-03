@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin ScriptStruct FAGLS_HumanAI_EnemyTags *******************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h_193_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h_193_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAGLS_HumanAI_EnemyTags_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct(); \
 	typedef FTableRowBase Super;
@@ -27,7 +27,7 @@ struct FAGLS_HumanAI_EnemyTags;
 // ********** End ScriptStruct FAGLS_HumanAI_EnemyTags *********************************************
 
 // ********** Begin ScriptStruct FCALS_ComponentAndTransform ***************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h_231_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h_231_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FCALS_ComponentAndTransform_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct(); \
 	typedef FTableRowBase Super;
@@ -37,7 +37,7 @@ struct FCALS_ComponentAndTransform;
 // ********** End ScriptStruct FCALS_ComponentAndTransform *****************************************
 
 // ********** Begin ScriptStruct FCMC_SingleClimbPointC ********************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h_243_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h_243_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FCMC_SingleClimbPointC_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct(); \
 	typedef FTableRowBase Super;
@@ -47,7 +47,7 @@ struct FCMC_SingleClimbPointC;
 // ********** End ScriptStruct FCMC_SingleClimbPointC **********************************************
 
 // ********** Begin ScriptStruct FCMC_LedgeC *******************************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h_264_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h_264_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FCMC_LedgeC_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct(); \
 	typedef FTableRowBase Super;
@@ -57,7 +57,7 @@ struct FCMC_LedgeC;
 // ********** End ScriptStruct FCMC_LedgeC *********************************************************
 
 // ********** Begin ScriptStruct FTraversalStateEvaluation *****************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h_284_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h_284_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FTraversalStateEvaluation_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct();
 
@@ -66,7 +66,7 @@ struct FTraversalStateEvaluation;
 // ********** End ScriptStruct FTraversalStateEvaluation *******************************************
 
 // ********** Begin ScriptStruct FTraversalSingeAnimAsset ******************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h_312_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h_312_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FTraversalSingeAnimAsset_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct();
 
@@ -75,7 +75,7 @@ struct FTraversalSingeAnimAsset;
 // ********** End ScriptStruct FTraversalSingeAnimAsset ********************************************
 
 // ********** Begin ScriptStruct FCALSMovementSettingsStrafe ***************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h_342_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h_342_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FCALSMovementSettingsStrafe_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct();
 
@@ -84,7 +84,7 @@ struct FCALSMovementSettingsStrafe;
 // ********** End ScriptStruct FCALSMovementSettingsStrafe *****************************************
 
 // ********** Begin ScriptStruct FCALS_PropsAttachValues *******************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h_363_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h_363_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FCALS_PropsAttachValues_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct();
 
@@ -93,7 +93,7 @@ struct FCALS_PropsAttachValues;
 // ********** End ScriptStruct FCALS_PropsAttachValues *********************************************
 
 // ********** Begin ScriptStruct FAGLS_FinishersDataForAI ******************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h_382_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h_382_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAGLS_FinishersDataForAI_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct();
 
@@ -102,7 +102,7 @@ struct FAGLS_FinishersDataForAI;
 // ********** End ScriptStruct FAGLS_FinishersDataForAI ********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h
 
 // ********** Begin Enum AGLS_HumanAI_MainBehaviorMode *********************************************
 #define FOREACH_ENUM_AGLS_HUMANAI_MAINBEHAVIORMODE(op) \

@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin ScriptStruct FLayeringCurvesData ***********************************************
-#define FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_ModifyLayeringLogic_h_45_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_ModifyLayeringLogic_h_45_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FLayeringCurvesData_Statics; \
 	JAKUBANIMNODESTOOL_API static class UScriptStruct* StaticStruct();
 
@@ -26,7 +26,7 @@ struct FLayeringCurvesData;
 // ********** End ScriptStruct FLayeringCurvesData *************************************************
 
 // ********** Begin ScriptStruct FAnimNode_ModifyLayering ******************************************
-#define FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_ModifyLayeringLogic_h_59_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_ModifyLayeringLogic_h_59_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAnimNode_ModifyLayering_Statics; \
 	static class UScriptStruct* StaticStruct(); \
 	typedef FAnimNode_Base Super;
@@ -36,7 +36,7 @@ struct FAnimNode_ModifyLayering;
 // ********** End ScriptStruct FAnimNode_ModifyLayering ********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_ModifyLayeringLogic_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_ModifyLayeringLogic_h
 
 // ********** Begin Enum EModifyLayeringApplyMode **************************************************
 #define FOREACH_ENUM_EMODIFYLAYERINGAPPLYMODE(op) \

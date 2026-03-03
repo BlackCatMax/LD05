@@ -20,7 +20,7 @@ class USoundBase;
 struct FLinearColor;
 
 // ********** Begin Class UAGLS_AI_ZombieAnimInstCore **********************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_ZombieAnimInstCore_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_ZombieAnimInstCore_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execGetFootsIK_Alpha); \
 	DECLARE_FUNCTION(execGetBaseLayerSlotWeigth); \
 	DECLARE_FUNCTION(execGetAddtiveSlotWeight); \
@@ -33,10 +33,10 @@ struct FLinearColor;
 	DECLARE_FUNCTION(execUpdatePerFrameOnTick);
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_ZombieAnimInstCore_h_17_CALLBACK_WRAPPERS
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_ZombieAnimInstCore_h_17_CALLBACK_WRAPPERS
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UAGLS_AI_ZombieAnimInstCore_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_ZombieAnimInstCore_h_17_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_ZombieAnimInstCore_h_17_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAGLS_AI_ZombieAnimInstCore(); \
 	friend struct Z_Construct_UClass_UAGLS_AI_ZombieAnimInstCore_Statics; \
@@ -47,7 +47,7 @@ public: \
 	DECLARE_SERIALIZER(UAGLS_AI_ZombieAnimInstCore)
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_ZombieAnimInstCore_h_17_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_ZombieAnimInstCore_h_17_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAGLS_AI_ZombieAnimInstCore(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -59,14 +59,14 @@ public: \
 	NO_API virtual ~UAGLS_AI_ZombieAnimInstCore();
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_ZombieAnimInstCore_h_14_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_ZombieAnimInstCore_h_17_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_ZombieAnimInstCore_h_14_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_ZombieAnimInstCore_h_17_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_ZombieAnimInstCore_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_ZombieAnimInstCore_h_17_CALLBACK_WRAPPERS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_ZombieAnimInstCore_h_17_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_ZombieAnimInstCore_h_17_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_ZombieAnimInstCore_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_ZombieAnimInstCore_h_17_CALLBACK_WRAPPERS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_ZombieAnimInstCore_h_17_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_ZombieAnimInstCore_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -76,6 +76,6 @@ class UAGLS_AI_ZombieAnimInstCore;
 // ********** End Class UAGLS_AI_ZombieAnimInstCore ************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_ZombieAnimInstCore_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_ZombieAnimInstCore_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

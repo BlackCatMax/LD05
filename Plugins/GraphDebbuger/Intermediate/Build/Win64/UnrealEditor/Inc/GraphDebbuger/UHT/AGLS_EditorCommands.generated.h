@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class UAGLS_EditorCommands *****************************************************
 GRAPHDEBBUGER_API UClass* Z_Construct_UClass_UAGLS_EditorCommands_NoRegister();
 
-#define FID_LD05_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_AGLS_EditorCommands_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_AGLS_EditorCommands_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAGLS_EditorCommands(); \
 	friend struct Z_Construct_UClass_UAGLS_EditorCommands_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(UAGLS_EditorCommands)
 
 
-#define FID_LD05_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_AGLS_EditorCommands_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_AGLS_EditorCommands_h_15_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAGLS_EditorCommands(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -42,12 +42,12 @@ public: \
 	NO_API virtual ~UAGLS_EditorCommands();
 
 
-#define FID_LD05_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_AGLS_EditorCommands_h_12_PROLOG
-#define FID_LD05_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_AGLS_EditorCommands_h_15_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_AGLS_EditorCommands_h_12_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_AGLS_EditorCommands_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_AGLS_EditorCommands_h_15_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_AGLS_EditorCommands_h_15_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_AGLS_EditorCommands_h_15_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_AGLS_EditorCommands_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -57,6 +57,6 @@ class UAGLS_EditorCommands;
 // ********** End Class UAGLS_EditorCommands *******************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_AGLS_EditorCommands_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_AGLS_EditorCommands_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class UEnvQuery_CSD_DistanceToVector *******************************************
 CLIMBINGNAVIGATION_API UClass* Z_Construct_UClass_UEnvQuery_CSD_DistanceToVector_NoRegister();
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CSD_DistanceToVector_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CSD_DistanceToVector_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUEnvQuery_CSD_DistanceToVector(); \
 	friend struct Z_Construct_UClass_UEnvQuery_CSD_DistanceToVector_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(UEnvQuery_CSD_DistanceToVector)
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CSD_DistanceToVector_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CSD_DistanceToVector_h_15_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UEnvQuery_CSD_DistanceToVector(UEnvQuery_CSD_DistanceToVector&&) = delete; \
 	UEnvQuery_CSD_DistanceToVector(const UEnvQuery_CSD_DistanceToVector&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~UEnvQuery_CSD_DistanceToVector();
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CSD_DistanceToVector_h_12_PROLOG
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CSD_DistanceToVector_h_15_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CSD_DistanceToVector_h_12_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CSD_DistanceToVector_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CSD_DistanceToVector_h_15_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CSD_DistanceToVector_h_15_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CSD_DistanceToVector_h_15_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CSD_DistanceToVector_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,6 +55,6 @@ class UEnvQuery_CSD_DistanceToVector;
 // ********** End Class UEnvQuery_CSD_DistanceToVector *********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CSD_DistanceToVector_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQuery_CSD_DistanceToVector_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

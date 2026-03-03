@@ -1,13 +1,12 @@
-"D:/Unreal Projects/UE5.6/AGLS_ProgramingCpp 5.6/Plugins/GraphDebbuger/Source/GraphDebbuger/Private/CustomDebugDrawComponent.cpp"
-@"D:/Unreal Projects/UE5.6/AGLS_ProgramingCpp 5.6/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/GraphDebbuger.Shared.rsp"
-/FI"D:/Unreal Projects/UE5.6/AGLS_ProgramingCpp 5.6/Intermediate/Build/Win64/x64/AGLS_ProgramingCppEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h"
-/FI"D:/Unreal Projects/UE5.6/AGLS_ProgramingCpp 5.6/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/Definitions.GraphDebbuger.h"
-/Yu"D:/Unreal Projects/UE5.6/AGLS_ProgramingCpp 5.6/Intermediate/Build/Win64/x64/AGLS_ProgramingCppEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h"
-/Fp"D:/Unreal Projects/UE5.6/AGLS_ProgramingCpp 5.6/Intermediate/Build/Win64/x64/AGLS_ProgramingCppEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.pch"
-/Fo"D:/Unreal Projects/UE5.6/AGLS_ProgramingCpp 5.6/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/CustomDebugDrawComponent.cpp.obj"
-/experimental:log "D:/Unreal Projects/UE5.6/AGLS_ProgramingCpp 5.6/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/CustomDebugDrawComponent.cpp.sarif"
-/sourceDependencies "D:/Unreal Projects/UE5.6/AGLS_ProgramingCpp 5.6/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/CustomDebugDrawComponent.cpp.dep.json"
-/d2ssa-cfg-question-
+"C:/LD05-main/LD05-main/Plugins/GraphDebbuger/Source/GraphDebbuger/Private/CustomDebugDrawComponent.cpp"
+@"C:/LD05-main/LD05-main/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/GraphDebbuger.Shared.rsp"
+/FI"C:/LD05-main/LD05-main/Intermediate/Build/Win64/x64/AGLSEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"C:/LD05-main/LD05-main/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/Definitions.GraphDebbuger.h"
+/Yu"C:/LD05-main/LD05-main/Intermediate/Build/Win64/x64/AGLSEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"C:/LD05-main/LD05-main/Intermediate/Build/Win64/x64/AGLSEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"C:/LD05-main/LD05-main/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/CustomDebugDrawComponent.cpp.obj"
+/experimental:log "C:/LD05-main/LD05-main/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/CustomDebugDrawComponent.cpp.sarif"
+/sourceDependencies "C:/LD05-main/LD05-main/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/CustomDebugDrawComponent.cpp.dep.json"
 /Zc:inline
 /nologo
 /Oi

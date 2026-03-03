@@ -118,15 +118,15 @@ UScriptStruct* Z_Construct_UScriptStruct_FJWAN_PoseSnapShotLogic()
 // ********** End ScriptStruct FJWAN_PoseSnapShotLogic *********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_PoseSnapShotLogic_h__Script_JakubAnimNodesTool_Statics
+struct Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_PoseSnapShotLogic_h__Script_JakubAnimNodesTool_Statics
 {
 	static constexpr FStructRegisterCompiledInInfo ScriptStructInfo[] = {
 		{ FJWAN_PoseSnapShotLogic::StaticStruct, Z_Construct_UScriptStruct_FJWAN_PoseSnapShotLogic_Statics::NewStructOps, TEXT("JWAN_PoseSnapShotLogic"), &Z_Registration_Info_UScriptStruct_FJWAN_PoseSnapShotLogic, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FJWAN_PoseSnapShotLogic), 2116317404U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_PoseSnapShotLogic_h__Script_JakubAnimNodesTool_3274069942(TEXT("/Script/JakubAnimNodesTool"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_PoseSnapShotLogic_h__Script_JakubAnimNodesTool_3274069942(TEXT("/Script/JakubAnimNodesTool"),
 	nullptr, 0,
-	Z_CompiledInDeferFile_FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_PoseSnapShotLogic_h__Script_JakubAnimNodesTool_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_PoseSnapShotLogic_h__Script_JakubAnimNodesTool_Statics::ScriptStructInfo),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_PoseSnapShotLogic_h__Script_JakubAnimNodesTool_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_PoseSnapShotLogic_h__Script_JakubAnimNodesTool_Statics::ScriptStructInfo),
 	nullptr, 0);
 // ********** End Registration *********************************************************************
 

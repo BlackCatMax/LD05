@@ -2016,7 +2016,7 @@ UClimbingNavigationBPLibrary::~UClimbingNavigationBPLibrary() {}
 // ********** End Class UClimbingNavigationBPLibrary ***********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbingNavigationBPLibrary_h__Script_ClimbingNavigation_Statics
+struct Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbingNavigationBPLibrary_h__Script_ClimbingNavigation_Statics
 {
 	static constexpr FEnumRegisterCompiledInInfo EnumInfo[] = {
 		{ EClimbMovementDirection_StaticEnum, TEXT("EClimbMovementDirection"), &Z_Registration_Info_UEnum_EClimbMovementDirection, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 26629476U) },
@@ -2034,10 +2034,10 @@ struct Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_Climbing
 		{ Z_Construct_UClass_UClimbingNavigationBPLibrary, UClimbingNavigationBPLibrary::StaticClass, TEXT("UClimbingNavigationBPLibrary"), &Z_Registration_Info_UClass_UClimbingNavigationBPLibrary, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UClimbingNavigationBPLibrary), 2443342489U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbingNavigationBPLibrary_h__Script_ClimbingNavigation_3628987067(TEXT("/Script/ClimbingNavigation"),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbingNavigationBPLibrary_h__Script_ClimbingNavigation_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbingNavigationBPLibrary_h__Script_ClimbingNavigation_Statics::ClassInfo),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbingNavigationBPLibrary_h__Script_ClimbingNavigation_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbingNavigationBPLibrary_h__Script_ClimbingNavigation_Statics::ScriptStructInfo),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbingNavigationBPLibrary_h__Script_ClimbingNavigation_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbingNavigationBPLibrary_h__Script_ClimbingNavigation_Statics::EnumInfo));
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbingNavigationBPLibrary_h__Script_ClimbingNavigation_3628987067(TEXT("/Script/ClimbingNavigation"),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbingNavigationBPLibrary_h__Script_ClimbingNavigation_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbingNavigationBPLibrary_h__Script_ClimbingNavigation_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbingNavigationBPLibrary_h__Script_ClimbingNavigation_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbingNavigationBPLibrary_h__Script_ClimbingNavigation_Statics::ScriptStructInfo),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbingNavigationBPLibrary_h__Script_ClimbingNavigation_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbingNavigationBPLibrary_h__Script_ClimbingNavigation_Statics::EnumInfo));
 // ********** End Registration *********************************************************************
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -116,15 +116,15 @@ UScriptStruct* Z_Construct_UScriptStruct_FGraphData()
 // ********** End ScriptStruct FGraphData **********************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_LD05_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebuggerCore_h__Script_GraphDebbuger_Statics
+struct Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebuggerCore_h__Script_GraphDebbuger_Statics
 {
 	static constexpr FStructRegisterCompiledInInfo ScriptStructInfo[] = {
 		{ FGraphData::StaticStruct, Z_Construct_UScriptStruct_FGraphData_Statics::NewStructOps, TEXT("GraphData"), &Z_Registration_Info_UScriptStruct_FGraphData, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FGraphData), 514939594U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebuggerCore_h__Script_GraphDebbuger_3372307987(TEXT("/Script/GraphDebbuger"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebuggerCore_h__Script_GraphDebbuger_3372307987(TEXT("/Script/GraphDebbuger"),
 	nullptr, 0,
-	Z_CompiledInDeferFile_FID_LD05_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebuggerCore_h__Script_GraphDebbuger_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebuggerCore_h__Script_GraphDebbuger_Statics::ScriptStructInfo),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebuggerCore_h__Script_GraphDebbuger_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebuggerCore_h__Script_GraphDebbuger_Statics::ScriptStructInfo),
 	nullptr, 0);
 // ********** End Registration *********************************************************************
 

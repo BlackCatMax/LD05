@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class UAISense_BetterSight *****************************************************
 CLIMBINGNAVIGATION_API UClass* Z_Construct_UClass_UAISense_BetterSight_NoRegister();
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AISense_BetterSight_h_24_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AISense_BetterSight_h_24_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAISense_BetterSight(); \
 	friend struct Z_Construct_UClass_UAISense_BetterSight_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(UAISense_BetterSight)
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AISense_BetterSight_h_24_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AISense_BetterSight_h_24_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UAISense_BetterSight(UAISense_BetterSight&&) = delete; \
 	UAISense_BetterSight(const UAISense_BetterSight&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~UAISense_BetterSight();
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AISense_BetterSight_h_21_PROLOG
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AISense_BetterSight_h_24_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AISense_BetterSight_h_21_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AISense_BetterSight_h_24_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AISense_BetterSight_h_24_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AISense_BetterSight_h_24_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AISense_BetterSight_h_24_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AISense_BetterSight_h_24_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,7 +55,7 @@ class UAISense_BetterSight;
 // ********** End Class UAISense_BetterSight *******************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AISense_BetterSight_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_AISense_BetterSight_h
 
 // ********** Begin Enum AISense_SightTracingMode **************************************************
 #define FOREACH_ENUM_AISENSE_SIGHTTRACINGMODE(op) \

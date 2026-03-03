@@ -26,7 +26,7 @@ struct FHitResult;
 struct FLinearColor;
 
 // ********** Begin Interface UInteractiveActorsInterface ******************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
 	virtual void BPI_IA_Set_CanDisplayWidget_Implementation(bool CanDisplay) {}; \
 	virtual void BPI_AI_Set_ActivateFunctionality_Implementation(bool Activate, ACharacter* Target) {}; \
 	virtual void BPI_AI_Set_StartPlayerCollisionBlock_Implementation(bool BlockCollision, float TimeToBlock) {}; \
@@ -71,10 +71,10 @@ struct FLinearColor;
 	DECLARE_FUNCTION(execBPI_IA_Get_InteractionTag);
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_17_CALLBACK_WRAPPERS
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_17_CALLBACK_WRAPPERS
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UInteractiveActorsInterface_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_17_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_17_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	HELPFULFUNCTIONS_API UInteractiveActorsInterface(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -86,7 +86,7 @@ HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UInteractiveActorsInterface_NoRe
 	virtual ~UInteractiveActorsInterface() = default;
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_17_GENERATED_UINTERFACE_BODY() \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_17_GENERATED_UINTERFACE_BODY() \
 private: \
 	static void StaticRegisterNativesUInteractiveActorsInterface(); \
 	friend struct Z_Construct_UClass_UInteractiveActorsInterface_Statics; \
@@ -97,15 +97,15 @@ public: \
 	DECLARE_SERIALIZER(UInteractiveActorsInterface)
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_17_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_17_GENERATED_BODY \
 	PRAGMA_DISABLE_DEPRECATION_WARNINGS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_17_GENERATED_UINTERFACE_BODY() \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_17_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_17_GENERATED_UINTERFACE_BODY() \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 	PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_17_INCLASS_IINTERFACE_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_17_INCLASS_IINTERFACE_NO_PURE_DECLS \
 protected: \
 	virtual ~IInteractiveActorsInterface() {} \
 public: \
@@ -135,13 +135,13 @@ public: \
 	virtual UObject* _getUObject() const { return nullptr; }
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_14_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_25_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_14_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_25_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_17_CALLBACK_WRAPPERS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_17_INCLASS_IINTERFACE_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_17_CALLBACK_WRAPPERS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h_17_INCLASS_IINTERFACE_NO_PURE_DECLS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -151,6 +151,6 @@ class UInteractiveActorsInterface;
 // ********** End Interface UInteractiveActorsInterface ********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActorsInterface_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

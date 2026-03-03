@@ -280,7 +280,7 @@ UDynamicNavLinkComponent::~UDynamicNavLinkComponent() {}
 // ********** End Class UDynamicNavLinkComponent ***************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h__Script_ClimbingNavigation_Statics
+struct Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h__Script_ClimbingNavigation_Statics
 {
 	static constexpr FEnumRegisterCompiledInInfo EnumInfo[] = {
 		{ NavLink_NavAreaMode_StaticEnum, TEXT("NavLink_NavAreaMode"), &Z_Registration_Info_UEnum_NavLink_NavAreaMode, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 3706622743U) },
@@ -289,10 +289,10 @@ struct Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_Climbing
 		{ Z_Construct_UClass_UDynamicNavLinkComponent, UDynamicNavLinkComponent::StaticClass, TEXT("UDynamicNavLinkComponent"), &Z_Registration_Info_UClass_UDynamicNavLinkComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UDynamicNavLinkComponent), 3159945298U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h__Script_ClimbingNavigation_2526364035(TEXT("/Script/ClimbingNavigation"),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h__Script_ClimbingNavigation_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h__Script_ClimbingNavigation_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h__Script_ClimbingNavigation_2526364035(TEXT("/Script/ClimbingNavigation"),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h__Script_ClimbingNavigation_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h__Script_ClimbingNavigation_Statics::ClassInfo),
 	nullptr, 0,
-	Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h__Script_ClimbingNavigation_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h__Script_ClimbingNavigation_Statics::EnumInfo));
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h__Script_ClimbingNavigation_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h__Script_ClimbingNavigation_Statics::EnumInfo));
 // ********** End Registration *********************************************************************
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

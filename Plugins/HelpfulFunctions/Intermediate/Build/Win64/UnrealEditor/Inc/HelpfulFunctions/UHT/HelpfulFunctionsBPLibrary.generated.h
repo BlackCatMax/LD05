@@ -37,7 +37,7 @@ struct FLinearColor;
 struct FVelocityBlendCpp;
 
 // ********** Begin ScriptStruct FSingleClimbPoint *************************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h_14_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h_14_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FSingleClimbPoint_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct();
 
@@ -46,7 +46,7 @@ struct FSingleClimbPoint;
 // ********** End ScriptStruct FSingleClimbPoint ***************************************************
 
 // ********** Begin ScriptStruct FVelocityBlendCpp *************************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h_36_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h_36_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FVelocityBlendCpp_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct();
 
@@ -55,7 +55,7 @@ struct FVelocityBlendCpp;
 // ********** End ScriptStruct FVelocityBlendCpp ***************************************************
 
 // ********** Begin ScriptStruct FAnimPoseEvaluationConfig *****************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h_65_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h_65_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAnimPoseEvaluationConfig_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct();
 
@@ -64,7 +64,7 @@ struct FAnimPoseEvaluationConfig;
 // ********** End ScriptStruct FAnimPoseEvaluationConfig *******************************************
 
 // ********** Begin Class UHelpfulFunctionsBPLibrary ***********************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h_111_RPC_WRAPPERS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h_111_RPC_WRAPPERS \
 	DECLARE_FUNCTION(execGetClampedCurveValue); \
 	DECLARE_FUNCTION(execBounceOutTimeFunction); \
 	DECLARE_FUNCTION(execEstimateTravelTime); \
@@ -132,7 +132,7 @@ struct FAnimPoseEvaluationConfig;
 
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UHelpfulFunctionsBPLibrary_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h_111_INCLASS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h_111_INCLASS \
 private: \
 	static void StaticRegisterNativesUHelpfulFunctionsBPLibrary(); \
 	friend struct Z_Construct_UClass_UHelpfulFunctionsBPLibrary_Statics; \
@@ -143,7 +143,7 @@ public: \
 	DECLARE_SERIALIZER(UHelpfulFunctionsBPLibrary)
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h_111_STANDARD_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h_111_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UHelpfulFunctionsBPLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UHelpfulFunctionsBPLibrary) \
@@ -155,13 +155,13 @@ public: \
 	NO_API virtual ~UHelpfulFunctionsBPLibrary();
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h_108_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h_111_GENERATED_BODY_LEGACY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h_108_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h_111_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h_111_RPC_WRAPPERS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h_111_INCLASS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h_111_STANDARD_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h_111_RPC_WRAPPERS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h_111_INCLASS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h_111_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -171,7 +171,7 @@ class UHelpfulFunctionsBPLibrary;
 // ********** End Class UHelpfulFunctionsBPLibrary *************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_HelpfulFunctionsBPLibrary_h
 
 // ********** Begin Enum EAnimBaseEvalType *********************************************************
 #define FOREACH_ENUM_EANIMBASEEVALTYPE(op) \

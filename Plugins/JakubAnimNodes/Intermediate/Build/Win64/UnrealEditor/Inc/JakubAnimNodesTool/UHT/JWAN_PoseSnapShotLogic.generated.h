@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin ScriptStruct FJWAN_PoseSnapShotLogic *******************************************
-#define FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_PoseSnapShotLogic_h_12_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_PoseSnapShotLogic_h_12_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FJWAN_PoseSnapShotLogic_Statics; \
 	static class UScriptStruct* StaticStruct(); \
 	typedef FAnimNode_Base Super;
@@ -27,6 +27,6 @@ struct FJWAN_PoseSnapShotLogic;
 // ********** End ScriptStruct FJWAN_PoseSnapShotLogic *********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_PoseSnapShotLogic_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_PoseSnapShotLogic_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1,20 +1,20 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\source\\graphdebbuger\\private\\agls_editorcommands.cpp",
+        "Source": "c:\\ld05-main\\ld05-main\\plugins\\graphdebbuger\\source\\graphdebbuger\\private\\agls_editorcommands.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\intermediate\\build\\win64\\x64\\agls_programingcppeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "PCH": "c:\\ld05-main\\ld05-main\\intermediate\\build\\win64\\x64\\aglseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
         "Includes": [
-            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\graphdebbuger\\definitions.graphdebbuger.h",
-            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\source\\graphdebbuger\\public\\agls_editorcommands.h",
-            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
-            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
-            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
-            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
-            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
-            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
-            "d:\\unreal projects\\ue5.6\\agls_programingcpp 5.6\\plugins\\graphdebbuger\\intermediate\\build\\win64\\unrealeditor\\inc\\graphdebbuger\\uht\\agls_editorcommands.generated.h",
-            "d:\\program files\\engine\\ue_5.6\\engine\\source\\runtime\\engine\\public\\engineutils.h"
+            "c:\\ld05-main\\ld05-main\\plugins\\graphdebbuger\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\graphdebbuger\\definitions.graphdebbuger.h",
+            "c:\\ld05-main\\ld05-main\\plugins\\graphdebbuger\\source\\graphdebbuger\\public\\agls_editorcommands.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\ld05-main\\ld05-main\\plugins\\graphdebbuger\\intermediate\\build\\win64\\unrealeditor\\inc\\graphdebbuger\\uht\\agls_editorcommands.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\public\\engineutils.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

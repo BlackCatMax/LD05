@@ -22,7 +22,7 @@ class UAnimSequence;
 class UCurveVector;
 
 // ********** Begin Class UJacobMotionWarpingComponent *********************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_JacobMotionWarpingComponent_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_JacobMotionWarpingComponent_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execTimelineBlendIn); \
 	DECLARE_FUNCTION(execGetTargetAxis); \
 	DECLARE_FUNCTION(execGetOriginPosition); \
@@ -36,7 +36,7 @@ class UCurveVector;
 
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UJacobMotionWarpingComponent_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_JacobMotionWarpingComponent_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_JacobMotionWarpingComponent_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUJacobMotionWarpingComponent(); \
 	friend struct Z_Construct_UClass_UJacobMotionWarpingComponent_Statics; \
@@ -47,7 +47,7 @@ public: \
 	DECLARE_SERIALIZER(UJacobMotionWarpingComponent)
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_JacobMotionWarpingComponent_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_JacobMotionWarpingComponent_h_15_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UJacobMotionWarpingComponent(UJacobMotionWarpingComponent&&) = delete; \
 	UJacobMotionWarpingComponent(const UJacobMotionWarpingComponent&) = delete; \
@@ -57,13 +57,13 @@ public: \
 	NO_API virtual ~UJacobMotionWarpingComponent();
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_JacobMotionWarpingComponent_h_12_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_JacobMotionWarpingComponent_h_15_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_JacobMotionWarpingComponent_h_12_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_JacobMotionWarpingComponent_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_JacobMotionWarpingComponent_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_JacobMotionWarpingComponent_h_15_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_JacobMotionWarpingComponent_h_15_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_JacobMotionWarpingComponent_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_JacobMotionWarpingComponent_h_15_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_JacobMotionWarpingComponent_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -73,6 +73,6 @@ class UJacobMotionWarpingComponent;
 // ********** End Class UJacobMotionWarpingComponent ***********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_JacobMotionWarpingComponent_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_JacobMotionWarpingComponent_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

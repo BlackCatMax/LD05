@@ -524,7 +524,7 @@ UPoseSnapshotLibrary::~UPoseSnapshotLibrary() {}
 // ********** End Class UPoseSnapshotLibrary *******************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h__Script_JakubAnimNodesTool_Statics
+struct Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h__Script_JakubAnimNodesTool_Statics
 {
 	static constexpr FStructRegisterCompiledInInfo ScriptStructInfo[] = {
 		{ FPoseSnapshotReference::StaticStruct, Z_Construct_UScriptStruct_FPoseSnapshotReference_Statics::NewStructOps, TEXT("PoseSnapshotReference"), &Z_Registration_Info_UScriptStruct_FPoseSnapshotReference, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FPoseSnapshotReference), 2604007564U) },
@@ -533,9 +533,9 @@ struct Z_CompiledInDeferFile_FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNod
 		{ Z_Construct_UClass_UPoseSnapshotLibrary, UPoseSnapshotLibrary::StaticClass, TEXT("UPoseSnapshotLibrary"), &Z_Registration_Info_UClass_UPoseSnapshotLibrary, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UPoseSnapshotLibrary), 4156842442U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h__Script_JakubAnimNodesTool_2537546475(TEXT("/Script/JakubAnimNodesTool"),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h__Script_JakubAnimNodesTool_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h__Script_JakubAnimNodesTool_Statics::ClassInfo),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h__Script_JakubAnimNodesTool_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h__Script_JakubAnimNodesTool_Statics::ScriptStructInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h__Script_JakubAnimNodesTool_2537546475(TEXT("/Script/JakubAnimNodesTool"),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h__Script_JakubAnimNodesTool_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h__Script_JakubAnimNodesTool_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h__Script_JakubAnimNodesTool_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_PoseSnapshotLibrary_h__Script_JakubAnimNodesTool_Statics::ScriptStructInfo),
 	nullptr, 0);
 // ********** End Registration *********************************************************************
 

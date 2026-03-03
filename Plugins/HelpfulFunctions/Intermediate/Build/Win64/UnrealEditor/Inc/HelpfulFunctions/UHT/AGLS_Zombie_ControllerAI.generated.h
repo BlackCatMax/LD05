@@ -19,17 +19,17 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 class UNavigationPath;
 
 // ********** Begin Class AAGLS_Zombie_ControllerAI ************************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execCustomUpdateControlRotation); \
 	DECLARE_FUNCTION(execPathWeightByNavLinksNumber); \
 	DECLARE_FUNCTION(execDoesPathUseNavLink); \
 	DECLARE_FUNCTION(execUpdateSightPerceptionValues);
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h_27_CALLBACK_WRAPPERS
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h_27_CALLBACK_WRAPPERS
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_AAGLS_Zombie_ControllerAI_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h_27_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h_27_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAAGLS_Zombie_ControllerAI(); \
 	friend struct Z_Construct_UClass_AAGLS_Zombie_ControllerAI_Statics; \
@@ -40,7 +40,7 @@ public: \
 	DECLARE_SERIALIZER(AAGLS_Zombie_ControllerAI)
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h_27_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h_27_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AAGLS_Zombie_ControllerAI(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -52,14 +52,14 @@ public: \
 	NO_API virtual ~AAGLS_Zombie_ControllerAI();
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h_24_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h_27_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h_24_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h_27_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h_27_CALLBACK_WRAPPERS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h_27_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h_27_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h_27_CALLBACK_WRAPPERS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h_27_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h_27_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -69,7 +69,7 @@ class AAGLS_Zombie_ControllerAI;
 // ********** End Class AAGLS_Zombie_ControllerAI **************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h
 
 // ********** Begin Enum EControllerAI_ControlRotMode **********************************************
 #define FOREACH_ENUM_ECONTROLLERAI_CONTROLROTMODE(op) \

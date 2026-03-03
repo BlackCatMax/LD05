@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class UIWALS_AnimInstanceCpp ***************************************************
 IWALS_ABILITYSYSTEM_API UClass* Z_Construct_UClass_UIWALS_AnimInstanceCpp_NoRegister();
 
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimInstanceCpp_h_16_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimInstanceCpp_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUIWALS_AnimInstanceCpp(); \
 	friend struct Z_Construct_UClass_UIWALS_AnimInstanceCpp_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(UIWALS_AnimInstanceCpp)
 
 
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimInstanceCpp_h_16_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimInstanceCpp_h_16_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UIWALS_AnimInstanceCpp(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -42,12 +42,12 @@ public: \
 	NO_API virtual ~UIWALS_AnimInstanceCpp();
 
 
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimInstanceCpp_h_13_PROLOG
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimInstanceCpp_h_16_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimInstanceCpp_h_13_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimInstanceCpp_h_16_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimInstanceCpp_h_16_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimInstanceCpp_h_16_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimInstanceCpp_h_16_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimInstanceCpp_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -57,6 +57,6 @@ class UIWALS_AnimInstanceCpp;
 // ********** End Class UIWALS_AnimInstanceCpp *****************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimInstanceCpp_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimInstanceCpp_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

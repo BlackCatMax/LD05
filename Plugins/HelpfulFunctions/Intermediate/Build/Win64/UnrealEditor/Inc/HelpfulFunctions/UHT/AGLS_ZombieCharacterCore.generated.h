@@ -25,7 +25,7 @@ enum class ECALS_WeaponType : uint8;
 struct FHitResult;
 
 // ********** Begin ScriptStruct FRuntimePhysicAnimConfig ******************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h_20_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h_20_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FRuntimePhysicAnimConfig_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct(); \
 	typedef FTableRowBase Super;
@@ -35,7 +35,7 @@ struct FRuntimePhysicAnimConfig;
 // ********** End ScriptStruct FRuntimePhysicAnimConfig ********************************************
 
 // ********** Begin Class AAGLS_ZombieCharacterCore ************************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h_100_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h_100_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execGetAttackElapsedTime); \
 	DECLARE_FUNCTION(execGetIsStartedAttack); \
 	DECLARE_FUNCTION(execGetRefBoneTransformInLocalSpace); \
@@ -69,10 +69,10 @@ struct FRuntimePhysicAnimConfig;
 	DECLARE_FUNCTION(execGetAnimCurveValue);
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h_100_CALLBACK_WRAPPERS
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h_100_CALLBACK_WRAPPERS
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_AAGLS_ZombieCharacterCore_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h_100_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h_100_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAAGLS_ZombieCharacterCore(); \
 	friend struct Z_Construct_UClass_AAGLS_ZombieCharacterCore_Statics; \
@@ -84,7 +84,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<AAGLS_ZombieCharacterCore*>(this); }
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h_100_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h_100_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AAGLS_ZombieCharacterCore(AAGLS_ZombieCharacterCore&&) = delete; \
 	AAGLS_ZombieCharacterCore(const AAGLS_ZombieCharacterCore&) = delete; \
@@ -94,14 +94,14 @@ public: \
 	NO_API virtual ~AAGLS_ZombieCharacterCore();
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h_97_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h_100_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h_97_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h_100_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h_100_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h_100_CALLBACK_WRAPPERS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h_100_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h_100_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h_100_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h_100_CALLBACK_WRAPPERS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h_100_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h_100_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -111,7 +111,7 @@ class AAGLS_ZombieCharacterCore;
 // ********** End Class AAGLS_ZombieCharacterCore **************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h
 
 // ********** Begin Enum ECharacterDetailModeFlags *************************************************
 #define FOREACH_ENUM_ECHARACTERDETAILMODEFLAGS(op) \

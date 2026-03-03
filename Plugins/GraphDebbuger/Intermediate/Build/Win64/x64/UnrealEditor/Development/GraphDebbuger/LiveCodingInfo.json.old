@@ -10,6 +10,7 @@
 			"PerModuleInline.gen.cpp.obj",
 			"AGLS_EditorCommands.cpp.obj",
 			"CustomDebugDrawComponent.cpp.obj",
+			"CustomFunctionsVisualizer.cpp.obj",
 			"GraphDebbuger.cpp.obj",
 			"GraphDebbugerBPLibrary.cpp.obj",
 			"GraphDebuggerCore.cpp.obj"

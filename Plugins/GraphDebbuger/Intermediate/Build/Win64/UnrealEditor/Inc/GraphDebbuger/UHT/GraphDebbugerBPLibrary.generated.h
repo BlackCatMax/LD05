@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class UGraphDebbugerBPLibrary **************************************************
 GRAPHDEBBUGER_API UClass* Z_Construct_UClass_UGraphDebbugerBPLibrary_NoRegister();
 
-#define FID_LD05_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebbugerBPLibrary_h_29_INCLASS \
+#define FID_LD05_main_LD05_main_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebbugerBPLibrary_h_29_INCLASS \
 private: \
 	static void StaticRegisterNativesUGraphDebbugerBPLibrary(); \
 	friend struct Z_Construct_UClass_UGraphDebbugerBPLibrary_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(UGraphDebbugerBPLibrary)
 
 
-#define FID_LD05_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebbugerBPLibrary_h_29_STANDARD_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebbugerBPLibrary_h_29_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGraphDebbugerBPLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGraphDebbugerBPLibrary) \
@@ -42,12 +42,12 @@ public: \
 	NO_API virtual ~UGraphDebbugerBPLibrary();
 
 
-#define FID_LD05_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebbugerBPLibrary_h_26_PROLOG
-#define FID_LD05_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebbugerBPLibrary_h_29_GENERATED_BODY_LEGACY \
+#define FID_LD05_main_LD05_main_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebbugerBPLibrary_h_26_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebbugerBPLibrary_h_29_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebbugerBPLibrary_h_29_INCLASS \
-	FID_LD05_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebbugerBPLibrary_h_29_STANDARD_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebbugerBPLibrary_h_29_INCLASS \
+	FID_LD05_main_LD05_main_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebbugerBPLibrary_h_29_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -57,6 +57,6 @@ class UGraphDebbugerBPLibrary;
 // ********** End Class UGraphDebbugerBPLibrary ****************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebbugerBPLibrary_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebbugerBPLibrary_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
