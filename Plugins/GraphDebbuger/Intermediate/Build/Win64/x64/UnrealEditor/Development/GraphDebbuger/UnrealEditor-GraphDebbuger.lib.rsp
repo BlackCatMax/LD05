@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-GraphDebbuger.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"I:/LD05/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
-"I:/LD05/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/Module.GraphDebbuger.cpp.obj"
-"I:/LD05/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/Default.rc2.res"
-/OUT:"I:/LD05/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/UnrealEditor-GraphDebbuger.lib"
+"D:/LD05/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/LD05/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/Module.GraphDebbuger.cpp.obj"
+"D:/LD05/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/Default.rc2.res"
+/OUT:"D:/LD05/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/UnrealEditor-GraphDebbuger.lib"
