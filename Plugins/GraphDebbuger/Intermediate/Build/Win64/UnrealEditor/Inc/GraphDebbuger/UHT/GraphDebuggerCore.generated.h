@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin ScriptStruct FGraphData ********************************************************
-#define FID_LD05_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebuggerCore_h_13_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebuggerCore_h_13_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FGraphData_Statics; \
 	GRAPHDEBBUGER_API static class UScriptStruct* StaticStruct();
 
@@ -26,6 +26,6 @@ struct FGraphData;
 // ********** End ScriptStruct FGraphData **********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebuggerCore_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_GraphDebbuger_Source_GraphDebbuger_Public_GraphDebuggerCore_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

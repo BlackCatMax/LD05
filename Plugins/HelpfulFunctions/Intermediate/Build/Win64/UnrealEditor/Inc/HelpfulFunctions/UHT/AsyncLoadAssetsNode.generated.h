@@ -20,20 +20,20 @@ class UAsyncLoadAssetsNode;
 class UObject;
 
 // ********** Begin Delegate FOnAssetsLoaded *******************************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncLoadAssetsNode_h_10_DELEGATE \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncLoadAssetsNode_h_10_DELEGATE \
 HELPFULFUNCTIONS_API void FOnAssetsLoaded_DelegateWrapper(const FMulticastScriptDelegate& OnAssetsLoaded, TArray<UObject*> const& LoadedAssets);
 
 
 // ********** End Delegate FOnAssetsLoaded *********************************************************
 
 // ********** Begin Class UAsyncLoadAssetsNode *****************************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncLoadAssetsNode_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncLoadAssetsNode_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execAsyncLoadAssetArray);
 
 
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UAsyncLoadAssetsNode_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncLoadAssetsNode_h_18_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncLoadAssetsNode_h_18_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAsyncLoadAssetsNode(); \
 	friend struct Z_Construct_UClass_UAsyncLoadAssetsNode_Statics; \
@@ -44,7 +44,7 @@ public: \
 	DECLARE_SERIALIZER(UAsyncLoadAssetsNode)
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncLoadAssetsNode_h_18_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncLoadAssetsNode_h_18_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UAsyncLoadAssetsNode(UAsyncLoadAssetsNode&&) = delete; \
 	UAsyncLoadAssetsNode(const UAsyncLoadAssetsNode&) = delete; \
@@ -54,13 +54,13 @@ public: \
 	NO_API virtual ~UAsyncLoadAssetsNode();
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncLoadAssetsNode_h_15_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncLoadAssetsNode_h_18_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncLoadAssetsNode_h_15_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncLoadAssetsNode_h_18_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncLoadAssetsNode_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncLoadAssetsNode_h_18_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncLoadAssetsNode_h_18_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncLoadAssetsNode_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncLoadAssetsNode_h_18_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncLoadAssetsNode_h_18_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -70,6 +70,6 @@ class UAsyncLoadAssetsNode;
 // ********** End Class UAsyncLoadAssetsNode *******************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncLoadAssetsNode_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AsyncLoadAssetsNode_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

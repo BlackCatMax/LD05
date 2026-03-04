@@ -190,14 +190,14 @@ UNavQuery_FullNavPathFinding::~UNavQuery_FullNavPathFinding() {}
 // ********** End Class UNavQuery_FullNavPathFinding ***********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavQuery_FullNavPathFinding_h__Script_ClimbingNavigation_Statics
+struct Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavQuery_FullNavPathFinding_h__Script_ClimbingNavigation_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UNavQuery_FullNavPathFinding, UNavQuery_FullNavPathFinding::StaticClass, TEXT("UNavQuery_FullNavPathFinding"), &Z_Registration_Info_UClass_UNavQuery_FullNavPathFinding, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UNavQuery_FullNavPathFinding), 1936723443U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavQuery_FullNavPathFinding_h__Script_ClimbingNavigation_2192538956(TEXT("/Script/ClimbingNavigation"),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavQuery_FullNavPathFinding_h__Script_ClimbingNavigation_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavQuery_FullNavPathFinding_h__Script_ClimbingNavigation_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavQuery_FullNavPathFinding_h__Script_ClimbingNavigation_2192538956(TEXT("/Script/ClimbingNavigation"),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavQuery_FullNavPathFinding_h__Script_ClimbingNavigation_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavQuery_FullNavPathFinding_h__Script_ClimbingNavigation_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

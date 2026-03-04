@@ -2292,14 +2292,14 @@ DEFINE_VTABLE_PTR_HELPER_CTOR(UAGLS_AI_CharacterInterface);
 // ********** End Interface UAGLS_AI_CharacterInterface ********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_CharacterInterface_h__Script_HelpfulFunctions_Statics
+struct Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_CharacterInterface_h__Script_HelpfulFunctions_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UAGLS_AI_CharacterInterface, UAGLS_AI_CharacterInterface::StaticClass, TEXT("UAGLS_AI_CharacterInterface"), &Z_Registration_Info_UClass_UAGLS_AI_CharacterInterface, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAGLS_AI_CharacterInterface), 3083996254U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_CharacterInterface_h__Script_HelpfulFunctions_3630581332(TEXT("/Script/HelpfulFunctions"),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_CharacterInterface_h__Script_HelpfulFunctions_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_CharacterInterface_h__Script_HelpfulFunctions_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_CharacterInterface_h__Script_HelpfulFunctions_3630581332(TEXT("/Script/HelpfulFunctions"),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_CharacterInterface_h__Script_HelpfulFunctions_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_CharacterInterface_h__Script_HelpfulFunctions_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

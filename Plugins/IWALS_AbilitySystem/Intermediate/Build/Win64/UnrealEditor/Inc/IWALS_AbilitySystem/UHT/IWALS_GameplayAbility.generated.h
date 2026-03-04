@@ -17,13 +17,13 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Class UIWALS_GameplayAbility ***************************************************
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbility_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbility_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execSendToCharacterSpecHandle);
 
 
 IWALS_ABILITYSYSTEM_API UClass* Z_Construct_UClass_UIWALS_GameplayAbility_NoRegister();
 
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbility_h_17_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbility_h_17_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUIWALS_GameplayAbility(); \
 	friend struct Z_Construct_UClass_UIWALS_GameplayAbility_Statics; \
@@ -35,7 +35,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<UIWALS_GameplayAbility*>(this); }
 
 
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbility_h_17_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbility_h_17_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UIWALS_GameplayAbility(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -47,13 +47,13 @@ public: \
 	NO_API virtual ~UIWALS_GameplayAbility();
 
 
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbility_h_14_PROLOG
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbility_h_17_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbility_h_14_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbility_h_17_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbility_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbility_h_17_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbility_h_17_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbility_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbility_h_17_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbility_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -63,6 +63,6 @@ class UIWALS_GameplayAbility;
 // ********** End Class UIWALS_GameplayAbility *****************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbility_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbility_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

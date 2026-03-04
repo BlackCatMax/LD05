@@ -183,14 +183,14 @@ UMantleAssetData::~UMantleAssetData() {}
 // ********** End Class UMantleAssetData ***********************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_MantleAssetData_h__Script_HelpfulFunctions_Statics
+struct Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_MantleAssetData_h__Script_HelpfulFunctions_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UMantleAssetData, UMantleAssetData::StaticClass, TEXT("UMantleAssetData"), &Z_Registration_Info_UClass_UMantleAssetData, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UMantleAssetData), 1110306738U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_MantleAssetData_h__Script_HelpfulFunctions_561626524(TEXT("/Script/HelpfulFunctions"),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_MantleAssetData_h__Script_HelpfulFunctions_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_MantleAssetData_h__Script_HelpfulFunctions_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_MantleAssetData_h__Script_HelpfulFunctions_561626524(TEXT("/Script/HelpfulFunctions"),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_MantleAssetData_h__Script_HelpfulFunctions_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_MantleAssetData_h__Script_HelpfulFunctions_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

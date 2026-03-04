@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin ScriptStruct FPairedAttackSeqInteractionAnim ***********************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h_14_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h_14_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FPairedAttackSeqInteractionAnim_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct(); \
 	typedef FTableRowBase Super;
@@ -27,21 +27,21 @@ struct FPairedAttackSeqInteractionAnim;
 // ********** End ScriptStruct FPairedAttackSeqInteractionAnim *************************************
 
 // ********** Begin Delegate FOnAttackStarted ******************************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h_37_DELEGATE \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h_37_DELEGATE \
 HELPFULFUNCTIONS_API void FOnAttackStarted_DelegateWrapper(const FMulticastScriptDelegate& OnAttackStarted, float ActionDuration);
 
 
 // ********** End Delegate FOnAttackStarted ********************************************************
 
 // ********** Begin Delegate FOnAttackEnded ********************************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h_38_DELEGATE \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h_38_DELEGATE \
 HELPFULFUNCTIONS_API void FOnAttackEnded_DelegateWrapper(const FMulticastScriptDelegate& OnAttackEnded, float ActionElapsedTime);
 
 
 // ********** End Delegate FOnAttackEnded **********************************************************
 
 // ********** Begin Class UAGLS_ZombieAttacksComponentCore *****************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h_50_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h_50_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execCorrectlySetAttackTimer); \
 	DECLARE_FUNCTION(execCallOnAttackEnded); \
 	DECLARE_FUNCTION(execCallOnAttackStarted);
@@ -49,7 +49,7 @@ HELPFULFUNCTIONS_API void FOnAttackEnded_DelegateWrapper(const FMulticastScriptD
 
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UAGLS_ZombieAttacksComponentCore_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h_50_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h_50_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAGLS_ZombieAttacksComponentCore(); \
 	friend struct Z_Construct_UClass_UAGLS_ZombieAttacksComponentCore_Statics; \
@@ -60,7 +60,7 @@ public: \
 	DECLARE_SERIALIZER(UAGLS_ZombieAttacksComponentCore)
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h_50_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h_50_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UAGLS_ZombieAttacksComponentCore(UAGLS_ZombieAttacksComponentCore&&) = delete; \
 	UAGLS_ZombieAttacksComponentCore(const UAGLS_ZombieAttacksComponentCore&) = delete; \
@@ -70,13 +70,13 @@ public: \
 	NO_API virtual ~UAGLS_ZombieAttacksComponentCore();
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h_47_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h_50_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h_47_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h_50_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h_50_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h_50_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h_50_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h_50_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h_50_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h_50_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -86,6 +86,6 @@ class UAGLS_ZombieAttacksComponentCore;
 // ********** End Class UAGLS_ZombieAttacksComponentCore *******************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieAttacksComponentCore_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

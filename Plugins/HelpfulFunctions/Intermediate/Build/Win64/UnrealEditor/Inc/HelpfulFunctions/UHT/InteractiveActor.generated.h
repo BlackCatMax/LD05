@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Class AInteractiveActor ********************************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActor_h_28_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActor_h_28_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execForceDestroyWidget); \
 	DECLARE_FUNCTION(execGetInteractionState); \
 	DECLARE_FUNCTION(execUpdateInteractionState);
@@ -25,7 +25,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_AInteractiveActor_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActor_h_28_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActor_h_28_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAInteractiveActor(); \
 	friend struct Z_Construct_UClass_AInteractiveActor_Statics; \
@@ -37,7 +37,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<AInteractiveActor*>(this); }
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActor_h_28_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActor_h_28_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AInteractiveActor(AInteractiveActor&&) = delete; \
 	AInteractiveActor(const AInteractiveActor&) = delete; \
@@ -47,13 +47,13 @@ public: \
 	NO_API virtual ~AInteractiveActor();
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActor_h_25_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActor_h_28_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActor_h_25_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActor_h_28_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActor_h_28_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActor_h_28_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActor_h_28_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActor_h_28_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActor_h_28_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActor_h_28_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -63,6 +63,6 @@ class AInteractiveActor;
 // ********** End Class AInteractiveActor **********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActor_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_InteractiveActor_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

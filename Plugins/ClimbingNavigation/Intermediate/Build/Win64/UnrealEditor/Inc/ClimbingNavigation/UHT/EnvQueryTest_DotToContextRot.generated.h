@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class UEnvQueryTest_DotToContextRot ********************************************
 CLIMBINGNAVIGATION_API UClass* Z_Construct_UClass_UEnvQueryTest_DotToContextRot_NoRegister();
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_DotToContextRot_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_DotToContextRot_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUEnvQueryTest_DotToContextRot(); \
 	friend struct Z_Construct_UClass_UEnvQueryTest_DotToContextRot_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(UEnvQueryTest_DotToContextRot)
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_DotToContextRot_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_DotToContextRot_h_15_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UEnvQueryTest_DotToContextRot(UEnvQueryTest_DotToContextRot&&) = delete; \
 	UEnvQueryTest_DotToContextRot(const UEnvQueryTest_DotToContextRot&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~UEnvQueryTest_DotToContextRot();
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_DotToContextRot_h_12_PROLOG
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_DotToContextRot_h_15_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_DotToContextRot_h_12_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_DotToContextRot_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_DotToContextRot_h_15_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_DotToContextRot_h_15_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_DotToContextRot_h_15_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_DotToContextRot_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,6 +55,6 @@ class UEnvQueryTest_DotToContextRot;
 // ********** End Class UEnvQueryTest_DotToContextRot **********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_DotToContextRot_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_DotToContextRot_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

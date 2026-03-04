@@ -21,7 +21,7 @@ class UPrimitiveComponent;
 struct FCALS_ComponentAndTransform;
 
 // ********** Begin ScriptStruct FCALS_LadderAnimData **********************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h_14_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h_14_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FCALS_LadderAnimData_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct(); \
 	typedef FTableRowBase Super;
@@ -31,7 +31,7 @@ struct FCALS_LadderAnimData;
 // ********** End ScriptStruct FCALS_LadderAnimData ************************************************
 
 // ********** Begin Class UCpp_LadderClimbingComponent *********************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h_30_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h_30_RPC_WRAPPERS_NO_PURE_DECLS \
 	virtual int32 ChooseMainPosesIndex_Implementation(FVector InitLocation, FRotator InitRotation); \
 	virtual bool SetMainValues_Implementation(bool StartedLadderClimb, FCALS_ComponentAndTransform TargetPositionWS, AActor* LadderActor, UPrimitiveComponent* RungComp); \
 	virtual bool GetMainValues_Implementation(bool& StartedLadderClimb, FCALS_ComponentAndTransform& TargetPositionWS, AActor*& LadderActor, UPrimitiveComponent*& RungComp); \
@@ -52,10 +52,10 @@ struct FCALS_LadderAnimData;
 	DECLARE_FUNCTION(execCheckCanStartClimbLadder);
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h_30_CALLBACK_WRAPPERS
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h_30_CALLBACK_WRAPPERS
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UCpp_LadderClimbingComponent_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h_30_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h_30_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUCpp_LadderClimbingComponent(); \
 	friend struct Z_Construct_UClass_UCpp_LadderClimbingComponent_Statics; \
@@ -66,7 +66,7 @@ public: \
 	DECLARE_SERIALIZER(UCpp_LadderClimbingComponent)
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h_30_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h_30_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UCpp_LadderClimbingComponent(UCpp_LadderClimbingComponent&&) = delete; \
 	UCpp_LadderClimbingComponent(const UCpp_LadderClimbingComponent&) = delete; \
@@ -76,14 +76,14 @@ public: \
 	NO_API virtual ~UCpp_LadderClimbingComponent();
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h_27_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h_30_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h_27_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h_30_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h_30_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h_30_CALLBACK_WRAPPERS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h_30_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h_30_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h_30_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h_30_CALLBACK_WRAPPERS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h_30_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h_30_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -93,6 +93,6 @@ class UCpp_LadderClimbingComponent;
 // ********** End Class UCpp_LadderClimbingComponent ***********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_LadderClimbingComponent_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1119,14 +1119,14 @@ UAGLS_AIsMeleeFightCore::~UAGLS_AIsMeleeFightCore() {}
 // ********** End Class UAGLS_AIsMeleeFightCore ****************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AIsMeleeFightCore_h__Script_HelpfulFunctions_Statics
+struct Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AIsMeleeFightCore_h__Script_HelpfulFunctions_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UAGLS_AIsMeleeFightCore, UAGLS_AIsMeleeFightCore::StaticClass, TEXT("UAGLS_AIsMeleeFightCore"), &Z_Registration_Info_UClass_UAGLS_AIsMeleeFightCore, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAGLS_AIsMeleeFightCore), 3330650978U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AIsMeleeFightCore_h__Script_HelpfulFunctions_2193170901(TEXT("/Script/HelpfulFunctions"),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AIsMeleeFightCore_h__Script_HelpfulFunctions_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AIsMeleeFightCore_h__Script_HelpfulFunctions_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AIsMeleeFightCore_h__Script_HelpfulFunctions_2193170901(TEXT("/Script/HelpfulFunctions"),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AIsMeleeFightCore_h__Script_HelpfulFunctions_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AIsMeleeFightCore_h__Script_HelpfulFunctions_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

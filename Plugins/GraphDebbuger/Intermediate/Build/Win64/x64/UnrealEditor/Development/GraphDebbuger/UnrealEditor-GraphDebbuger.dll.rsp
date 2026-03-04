@@ -20,9 +20,9 @@
 /ALTERNATENAME:__imp___std_init_once_complete=__imp_InitOnceComplete
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
-/LIBPATH:"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.42.34433/lib/x64"
-/LIBPATH:"C:/Program Files (x86)/Windows Kits/10/lib/10.0.22621.0/ucrt/x64"
-/LIBPATH:"C:/Program Files (x86)/Windows Kits/10/lib/10.0.22621.0/um/x64"
+/LIBPATH:"C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/lib/x64"
+/LIBPATH:"C:/Program Files (x86)/Windows Kits/10/lib/10.0.26100.0/ucrt/x64"
+/LIBPATH:"C:/Program Files (x86)/Windows Kits/10/lib/10.0.26100.0/um/x64"
 /NODEFAULTLIB:"LIBCMT"
 /NODEFAULTLIB:"LIBCPMT"
 /NODEFAULTLIB:"LIBCMTD"
@@ -36,9 +36,15 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 /NOEXP
-"D:/LD05/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
-"D:/LD05/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/Module.GraphDebbuger.cpp.obj"
-"D:/LD05/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/Default.rc2.res"
+"C:/LD05-main/LD05-main/Intermediate/Build/Win64/x64/AGLSEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/LD05-main/LD05-main/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/Module.GraphDebbuger.cpp.obj"
+"C:/LD05-main/LD05-main/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/AGLS_EditorCommands.cpp.obj"
+"C:/LD05-main/LD05-main/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/CustomDebugDrawComponent.cpp.obj"
+"C:/LD05-main/LD05-main/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/CustomFunctionsVisualizer.cpp.obj"
+"C:/LD05-main/LD05-main/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/GraphDebbuger.cpp.obj"
+"C:/LD05-main/LD05-main/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/GraphDebbugerBPLibrary.cpp.obj"
+"C:/LD05-main/LD05-main/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/GraphDebuggerCore.cpp.obj"
+"C:/LD05-main/LD05-main/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/Default.rc2.res"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/CoreUObject/UnrealEditor-CoreUObject.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/UnrealEditor-Engine.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Slate/UnrealEditor-Slate.lib"
@@ -70,6 +76,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"D:/LD05/Plugins/GraphDebbuger/Binaries/Win64/UnrealEditor-GraphDebbuger.dll"
-/PDB:"D:/LD05/Plugins/GraphDebbuger/Binaries/Win64/UnrealEditor-GraphDebbuger.pdb"
+/OUT:"C:/LD05-main/LD05-main/Plugins/GraphDebbuger/Binaries/Win64/UnrealEditor-GraphDebbuger.dll"
+/PDB:"C:/LD05-main/LD05-main/Plugins/GraphDebbuger/Binaries/Win64/UnrealEditor-GraphDebbuger.pdb"
 /ignore:4078

@@ -598,14 +598,14 @@ DEFINE_VTABLE_PTR_HELPER_CTOR(UALS_BaseComponentsInterfaceCpp);
 // ********** End Interface UALS_BaseComponentsInterfaceCpp ****************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_BaseComponentsInterfaceCpp_h__Script_HelpfulFunctions_Statics
+struct Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_BaseComponentsInterfaceCpp_h__Script_HelpfulFunctions_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UALS_BaseComponentsInterfaceCpp, UALS_BaseComponentsInterfaceCpp::StaticClass, TEXT("UALS_BaseComponentsInterfaceCpp"), &Z_Registration_Info_UClass_UALS_BaseComponentsInterfaceCpp, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UALS_BaseComponentsInterfaceCpp), 1610005220U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_BaseComponentsInterfaceCpp_h__Script_HelpfulFunctions_543901757(TEXT("/Script/HelpfulFunctions"),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_BaseComponentsInterfaceCpp_h__Script_HelpfulFunctions_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_BaseComponentsInterfaceCpp_h__Script_HelpfulFunctions_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_BaseComponentsInterfaceCpp_h__Script_HelpfulFunctions_543901757(TEXT("/Script/HelpfulFunctions"),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_BaseComponentsInterfaceCpp_h__Script_HelpfulFunctions_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_BaseComponentsInterfaceCpp_h__Script_HelpfulFunctions_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

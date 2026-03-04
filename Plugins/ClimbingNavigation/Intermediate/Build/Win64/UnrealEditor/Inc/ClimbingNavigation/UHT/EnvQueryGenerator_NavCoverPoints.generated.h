@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class UEnvQueryGenerator_NavCoverPoints ****************************************
 CLIMBINGNAVIGATION_API UClass* Z_Construct_UClass_UEnvQueryGenerator_NavCoverPoints_NoRegister();
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryGenerator_NavCoverPoints_h_16_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryGenerator_NavCoverPoints_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUEnvQueryGenerator_NavCoverPoints(); \
 	friend struct Z_Construct_UClass_UEnvQueryGenerator_NavCoverPoints_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(UEnvQueryGenerator_NavCoverPoints)
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryGenerator_NavCoverPoints_h_16_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryGenerator_NavCoverPoints_h_16_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UEnvQueryGenerator_NavCoverPoints(UEnvQueryGenerator_NavCoverPoints&&) = delete; \
 	UEnvQueryGenerator_NavCoverPoints(const UEnvQueryGenerator_NavCoverPoints&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~UEnvQueryGenerator_NavCoverPoints();
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryGenerator_NavCoverPoints_h_13_PROLOG
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryGenerator_NavCoverPoints_h_16_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryGenerator_NavCoverPoints_h_13_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryGenerator_NavCoverPoints_h_16_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryGenerator_NavCoverPoints_h_16_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryGenerator_NavCoverPoints_h_16_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryGenerator_NavCoverPoints_h_16_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryGenerator_NavCoverPoints_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,6 +55,6 @@ class UEnvQueryGenerator_NavCoverPoints;
 // ********** End Class UEnvQueryGenerator_NavCoverPoints ******************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryGenerator_NavCoverPoints_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryGenerator_NavCoverPoints_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

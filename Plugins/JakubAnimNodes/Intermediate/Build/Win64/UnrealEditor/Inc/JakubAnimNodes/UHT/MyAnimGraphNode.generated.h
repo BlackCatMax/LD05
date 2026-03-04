@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class UAnimGraphNode_LayeredBone ***********************************************
 JAKUBANIMNODES_API UClass* Z_Construct_UClass_UAnimGraphNode_LayeredBone_NoRegister();
 
-#define FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_MyAnimGraphNode_h_13_INCLASS \
+#define FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_MyAnimGraphNode_h_13_INCLASS \
 private: \
 	static void StaticRegisterNativesUAnimGraphNode_LayeredBone(); \
 	friend struct Z_Construct_UClass_UAnimGraphNode_LayeredBone_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(UAnimGraphNode_LayeredBone)
 
 
-#define FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_MyAnimGraphNode_h_13_STANDARD_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_MyAnimGraphNode_h_13_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	JAKUBANIMNODES_API UAnimGraphNode_LayeredBone(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAnimGraphNode_LayeredBone) \
@@ -42,12 +42,12 @@ public: \
 	JAKUBANIMNODES_API virtual ~UAnimGraphNode_LayeredBone();
 
 
-#define FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_MyAnimGraphNode_h_10_PROLOG
-#define FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_MyAnimGraphNode_h_13_GENERATED_BODY_LEGACY \
+#define FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_MyAnimGraphNode_h_10_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_MyAnimGraphNode_h_13_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_MyAnimGraphNode_h_13_INCLASS \
-	FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_MyAnimGraphNode_h_13_STANDARD_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_MyAnimGraphNode_h_13_INCLASS \
+	FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_MyAnimGraphNode_h_13_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -57,6 +57,6 @@ class UAnimGraphNode_LayeredBone;
 // ********** End Class UAnimGraphNode_LayeredBone *************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_MyAnimGraphNode_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodes_Public_MyAnimGraphNode_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

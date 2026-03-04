@@ -1887,7 +1887,7 @@ UScriptStruct* Z_Construct_UScriptStruct_FAGLS_FinishersDataForAI()
 // ********** End ScriptStruct FAGLS_FinishersDataForAI ********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h__Script_HelpfulFunctions_Statics
+struct Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h__Script_HelpfulFunctions_Statics
 {
 	static constexpr FEnumRegisterCompiledInInfo EnumInfo[] = {
 		{ AGLS_HumanAI_MainBehaviorMode_StaticEnum, TEXT("AGLS_HumanAI_MainBehaviorMode"), &Z_Registration_Info_UEnum_AGLS_HumanAI_MainBehaviorMode, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 715888626U) },
@@ -1918,10 +1918,10 @@ struct Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFun
 		{ FAGLS_FinishersDataForAI::StaticStruct, Z_Construct_UScriptStruct_FAGLS_FinishersDataForAI_Statics::NewStructOps, TEXT("AGLS_FinishersDataForAI"), &Z_Registration_Info_UScriptStruct_FAGLS_FinishersDataForAI, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FAGLS_FinishersDataForAI), 3628171286U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h__Script_HelpfulFunctions_494380261(TEXT("/Script/HelpfulFunctions"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h__Script_HelpfulFunctions_494380261(TEXT("/Script/HelpfulFunctions"),
 	nullptr, 0,
-	Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h__Script_HelpfulFunctions_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h__Script_HelpfulFunctions_Statics::ScriptStructInfo),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h__Script_HelpfulFunctions_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h__Script_HelpfulFunctions_Statics::EnumInfo));
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h__Script_HelpfulFunctions_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h__Script_HelpfulFunctions_Statics::ScriptStructInfo),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h__Script_HelpfulFunctions_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_ALS_StructuresAndEnumsCpp_h__Script_HelpfulFunctions_Statics::EnumInfo));
 // ********** End Registration *********************************************************************
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

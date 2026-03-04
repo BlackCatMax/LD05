@@ -1091,14 +1091,14 @@ AAGLS_Human_ControllerCoreAI::~AAGLS_Human_ControllerCoreAI() {}
 // ********** End Class AAGLS_Human_ControllerCoreAI ***********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h__Script_HelpfulFunctions_Statics
+struct Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h__Script_HelpfulFunctions_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AAGLS_Human_ControllerCoreAI, AAGLS_Human_ControllerCoreAI::StaticClass, TEXT("AAGLS_Human_ControllerCoreAI"), &Z_Registration_Info_UClass_AAGLS_Human_ControllerCoreAI, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AAGLS_Human_ControllerCoreAI), 330425908U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h__Script_HelpfulFunctions_815696333(TEXT("/Script/HelpfulFunctions"),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h__Script_HelpfulFunctions_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h__Script_HelpfulFunctions_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h__Script_HelpfulFunctions_815696333(TEXT("/Script/HelpfulFunctions"),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h__Script_HelpfulFunctions_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h__Script_HelpfulFunctions_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

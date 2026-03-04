@@ -21,7 +21,7 @@ struct FAnimUpdateContext;
 struct FTransformTrajectory;
 
 // ********** Begin Class UAGLS_AI_AnimInstanceBase ************************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_AnimInstanceBase_h_22_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_AnimInstanceBase_h_22_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execGetDesiredFacing); \
 	DECLARE_FUNCTION(execEnableSterring); \
 	DECLARE_FUNCTION(execUpdateMotionMatchingPostSelection); \
@@ -50,10 +50,10 @@ struct FTransformTrajectory;
 	DECLARE_FUNCTION(execGenerateTrajectory);
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_AnimInstanceBase_h_22_CALLBACK_WRAPPERS
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_AnimInstanceBase_h_22_CALLBACK_WRAPPERS
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UAGLS_AI_AnimInstanceBase_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_AnimInstanceBase_h_22_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_AnimInstanceBase_h_22_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAGLS_AI_AnimInstanceBase(); \
 	friend struct Z_Construct_UClass_UAGLS_AI_AnimInstanceBase_Statics; \
@@ -64,7 +64,7 @@ public: \
 	DECLARE_SERIALIZER(UAGLS_AI_AnimInstanceBase)
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_AnimInstanceBase_h_22_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_AnimInstanceBase_h_22_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAGLS_AI_AnimInstanceBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -76,14 +76,14 @@ public: \
 	NO_API virtual ~UAGLS_AI_AnimInstanceBase();
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_AnimInstanceBase_h_19_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_AnimInstanceBase_h_22_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_AnimInstanceBase_h_19_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_AnimInstanceBase_h_22_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_AnimInstanceBase_h_22_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_AnimInstanceBase_h_22_CALLBACK_WRAPPERS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_AnimInstanceBase_h_22_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_AnimInstanceBase_h_22_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_AnimInstanceBase_h_22_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_AnimInstanceBase_h_22_CALLBACK_WRAPPERS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_AnimInstanceBase_h_22_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_AnimInstanceBase_h_22_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -93,6 +93,6 @@ class UAGLS_AI_AnimInstanceBase;
 // ********** End Class UAGLS_AI_AnimInstanceBase **************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_AnimInstanceBase_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_AI_AnimInstanceBase_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

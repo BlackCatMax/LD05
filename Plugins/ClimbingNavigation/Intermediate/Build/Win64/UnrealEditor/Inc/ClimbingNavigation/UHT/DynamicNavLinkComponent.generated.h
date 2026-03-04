@@ -20,14 +20,14 @@ enum class NavLink_NavAreaMode : uint8;
 struct FNavigationLink;
 
 // ********** Begin Class UDynamicNavLinkComponent *************************************************
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h_22_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h_22_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execAddNewNavLink); \
 	DECLARE_FUNCTION(execRebuildNavLinks);
 
 
 CLIMBINGNAVIGATION_API UClass* Z_Construct_UClass_UDynamicNavLinkComponent_NoRegister();
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h_22_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h_22_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUDynamicNavLinkComponent(); \
 	friend struct Z_Construct_UClass_UDynamicNavLinkComponent_Statics; \
@@ -38,7 +38,7 @@ public: \
 	DECLARE_SERIALIZER(UDynamicNavLinkComponent)
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h_22_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h_22_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UDynamicNavLinkComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -50,13 +50,13 @@ public: \
 	NO_API virtual ~UDynamicNavLinkComponent();
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h_19_PROLOG
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h_22_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h_19_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h_22_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h_22_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h_22_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h_22_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h_22_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h_22_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h_22_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -66,7 +66,7 @@ class UDynamicNavLinkComponent;
 // ********** End Class UDynamicNavLinkComponent ***************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_DynamicNavLinkComponent_h
 
 // ********** Begin Enum NavLink_NavAreaMode *******************************************************
 #define FOREACH_ENUM_NAVLINK_NAVAREAMODE(op) \

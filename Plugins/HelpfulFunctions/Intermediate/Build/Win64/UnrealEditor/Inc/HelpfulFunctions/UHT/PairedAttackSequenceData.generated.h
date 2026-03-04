@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class APairedAttackSequenceData ************************************************
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_APairedAttackSequenceData_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_PairedAttackSequenceData_h_45_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_PairedAttackSequenceData_h_45_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAPairedAttackSequenceData(); \
 	friend struct Z_Construct_UClass_APairedAttackSequenceData_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(APairedAttackSequenceData)
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_PairedAttackSequenceData_h_45_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_PairedAttackSequenceData_h_45_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	APairedAttackSequenceData(APairedAttackSequenceData&&) = delete; \
 	APairedAttackSequenceData(const APairedAttackSequenceData&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~APairedAttackSequenceData();
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_PairedAttackSequenceData_h_42_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_PairedAttackSequenceData_h_45_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_PairedAttackSequenceData_h_42_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_PairedAttackSequenceData_h_45_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_PairedAttackSequenceData_h_45_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_PairedAttackSequenceData_h_45_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_PairedAttackSequenceData_h_45_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_PairedAttackSequenceData_h_45_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,7 +55,7 @@ class APairedAttackSequenceData;
 // ********** End Class APairedAttackSequenceData **************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_PairedAttackSequenceData_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_PairedAttackSequenceData_h
 
 // ********** Begin Enum PairedAttackSeqPreviewMode ************************************************
 #define FOREACH_ENUM_PAIREDATTACKSEQPREVIEWMODE(op) \

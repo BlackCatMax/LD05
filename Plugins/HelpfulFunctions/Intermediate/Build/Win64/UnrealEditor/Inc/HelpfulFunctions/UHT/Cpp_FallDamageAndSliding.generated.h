@@ -22,7 +22,7 @@ class UPrimitiveComponent;
 struct FHitResult;
 
 // ********** Begin ScriptStruct FCharMovementValues ***********************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_12_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_12_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FCharMovementValues_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct();
 
@@ -31,7 +31,7 @@ struct FCharMovementValues;
 // ********** End ScriptStruct FCharMovementValues *************************************************
 
 // ********** Begin ScriptStruct FSlidingConditionData *********************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_27_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_27_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FSlidingConditionData_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct();
 
@@ -40,7 +40,7 @@ struct FSlidingConditionData;
 // ********** End ScriptStruct FSlidingConditionData ***********************************************
 
 // ********** Begin Class UCpp_FallDamageAndSliding ************************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_44_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_44_RPC_WRAPPERS_NO_PURE_DECLS \
 	virtual void PrepareToSlidingC_Implementation(bool CanStart); \
 	virtual bool SlidingConditionC_Implementation(); \
 	DECLARE_FUNCTION(execPrepareToSlidingC); \
@@ -53,10 +53,10 @@ struct FSlidingConditionData;
 	DECLARE_FUNCTION(execSimpleTrajectoryC);
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_44_CALLBACK_WRAPPERS
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_44_CALLBACK_WRAPPERS
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UCpp_FallDamageAndSliding_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_44_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_44_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUCpp_FallDamageAndSliding(); \
 	friend struct Z_Construct_UClass_UCpp_FallDamageAndSliding_Statics; \
@@ -67,7 +67,7 @@ public: \
 	DECLARE_SERIALIZER(UCpp_FallDamageAndSliding)
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_44_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_44_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UCpp_FallDamageAndSliding(UCpp_FallDamageAndSliding&&) = delete; \
 	UCpp_FallDamageAndSliding(const UCpp_FallDamageAndSliding&) = delete; \
@@ -77,14 +77,14 @@ public: \
 	NO_API virtual ~UCpp_FallDamageAndSliding();
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_41_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_44_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_41_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_44_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_44_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_44_CALLBACK_WRAPPERS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_44_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_44_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_44_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_44_CALLBACK_WRAPPERS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_44_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h_44_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -94,6 +94,6 @@ class UCpp_FallDamageAndSliding;
 // ********** End Class UCpp_FallDamageAndSliding **************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_FallDamageAndSliding_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

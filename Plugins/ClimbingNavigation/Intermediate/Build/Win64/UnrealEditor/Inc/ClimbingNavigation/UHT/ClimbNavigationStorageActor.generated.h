@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 struct FClimbNav_SingleClimbPoint;
 
 // ********** Begin Class AClimbNavigationStorageActor *********************************************
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbNavigationStorageActor_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbNavigationStorageActor_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execGetLastBuildedPath); \
 	DECLARE_FUNCTION(execFindNearestNavLedge); \
 	DECLARE_FUNCTION(execFindPathBetweenClimbPoints);
@@ -27,7 +27,7 @@ struct FClimbNav_SingleClimbPoint;
 
 CLIMBINGNAVIGATION_API UClass* Z_Construct_UClass_AClimbNavigationStorageActor_NoRegister();
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbNavigationStorageActor_h_13_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbNavigationStorageActor_h_13_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAClimbNavigationStorageActor(); \
 	friend struct Z_Construct_UClass_AClimbNavigationStorageActor_Statics; \
@@ -38,7 +38,7 @@ public: \
 	DECLARE_SERIALIZER(AClimbNavigationStorageActor)
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbNavigationStorageActor_h_13_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbNavigationStorageActor_h_13_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AClimbNavigationStorageActor(AClimbNavigationStorageActor&&) = delete; \
 	AClimbNavigationStorageActor(const AClimbNavigationStorageActor&) = delete; \
@@ -48,13 +48,13 @@ public: \
 	NO_API virtual ~AClimbNavigationStorageActor();
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbNavigationStorageActor_h_10_PROLOG
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbNavigationStorageActor_h_13_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbNavigationStorageActor_h_10_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbNavigationStorageActor_h_13_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbNavigationStorageActor_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbNavigationStorageActor_h_13_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbNavigationStorageActor_h_13_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbNavigationStorageActor_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbNavigationStorageActor_h_13_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbNavigationStorageActor_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -64,6 +64,6 @@ class AClimbNavigationStorageActor;
 // ********** End Class AClimbNavigationStorageActor ***********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbNavigationStorageActor_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_ClimbNavigationStorageActor_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

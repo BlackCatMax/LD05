@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin ScriptStruct FGameplayAbilityBindIWALS *****************************************
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbilitySet_h_47_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbilitySet_h_47_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FGameplayAbilityBindIWALS_Statics; \
 	IWALS_ABILITYSYSTEM_API static class UScriptStruct* StaticStruct();
 
@@ -28,7 +28,7 @@ struct FGameplayAbilityBindIWALS;
 // ********** Begin Class UIWALS_GameplayAbilitySet ************************************************
 IWALS_ABILITYSYSTEM_API UClass* Z_Construct_UClass_UIWALS_GameplayAbilitySet_NoRegister();
 
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbilitySet_h_59_INCLASS \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbilitySet_h_59_INCLASS \
 private: \
 	static void StaticRegisterNativesUIWALS_GameplayAbilitySet(); \
 	friend struct Z_Construct_UClass_UIWALS_GameplayAbilitySet_Statics; \
@@ -39,7 +39,7 @@ public: \
 	DECLARE_SERIALIZER(UIWALS_GameplayAbilitySet)
 
 
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbilitySet_h_59_STANDARD_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbilitySet_h_59_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UIWALS_GameplayAbilitySet(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UIWALS_GameplayAbilitySet) \
@@ -51,12 +51,12 @@ public: \
 	NO_API virtual ~UIWALS_GameplayAbilitySet();
 
 
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbilitySet_h_56_PROLOG
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbilitySet_h_59_GENERATED_BODY_LEGACY \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbilitySet_h_56_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbilitySet_h_59_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbilitySet_h_59_INCLASS \
-	FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbilitySet_h_59_STANDARD_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbilitySet_h_59_INCLASS \
+	FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbilitySet_h_59_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -66,7 +66,7 @@ class UIWALS_GameplayAbilitySet;
 // ********** End Class UIWALS_GameplayAbilitySet **************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbilitySet_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_GameplayAbilitySet_h
 
 // ********** Begin Enum EIWALS_AbilityInputBinds **************************************************
 #define FOREACH_ENUM_EIWALS_ABILITYINPUTBINDS(op) \

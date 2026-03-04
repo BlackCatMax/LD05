@@ -3151,7 +3151,7 @@ UCpp_TraversalActionComponent::~UCpp_TraversalActionComponent() {}
 // ********** End Class UCpp_TraversalActionComponent **********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h__Script_HelpfulFunctions_Statics
+struct Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h__Script_HelpfulFunctions_Statics
 {
 	static constexpr FEnumRegisterCompiledInInfo EnumInfo[] = {
 		{ CALS_TraversalAction_StaticEnum, TEXT("CALS_TraversalAction"), &Z_Registration_Info_UEnum_CALS_TraversalAction, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 2501583752U) },
@@ -3169,10 +3169,10 @@ struct Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFun
 		{ Z_Construct_UClass_UCpp_TraversalActionComponent, UCpp_TraversalActionComponent::StaticClass, TEXT("UCpp_TraversalActionComponent"), &Z_Registration_Info_UClass_UCpp_TraversalActionComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UCpp_TraversalActionComponent), 4033734244U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h__Script_HelpfulFunctions_4205219647(TEXT("/Script/HelpfulFunctions"),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h__Script_HelpfulFunctions_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h__Script_HelpfulFunctions_Statics::ClassInfo),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h__Script_HelpfulFunctions_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h__Script_HelpfulFunctions_Statics::ScriptStructInfo),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h__Script_HelpfulFunctions_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h__Script_HelpfulFunctions_Statics::EnumInfo));
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h__Script_HelpfulFunctions_4205219647(TEXT("/Script/HelpfulFunctions"),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h__Script_HelpfulFunctions_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h__Script_HelpfulFunctions_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h__Script_HelpfulFunctions_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h__Script_HelpfulFunctions_Statics::ScriptStructInfo),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h__Script_HelpfulFunctions_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_TraversalActionComponent_h__Script_HelpfulFunctions_Statics::EnumInfo));
 // ********** End Registration *********************************************************************
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

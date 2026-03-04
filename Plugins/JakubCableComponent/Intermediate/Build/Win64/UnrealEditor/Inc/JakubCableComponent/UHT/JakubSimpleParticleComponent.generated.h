@@ -20,7 +20,7 @@ class USceneComponent;
 enum class EAttachmentRule : uint8;
 
 // ********** Begin Class UJakubSimpleParticleComponent ********************************************
-#define FID_LD05_Plugins_JakubCableComponent_Source_JakubCableComponent_Public_JakubSimpleParticleComponent_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_JakubCableComponent_Source_JakubCableComponent_Public_JakubSimpleParticleComponent_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execFindBetweenNormals); \
 	DECLARE_FUNCTION(execSetAttachToParticleOffset); \
 	DECLARE_FUNCTION(execAttachComponentToParticle); \
@@ -29,7 +29,7 @@ enum class EAttachmentRule : uint8;
 
 JAKUBCABLECOMPONENT_API UClass* Z_Construct_UClass_UJakubSimpleParticleComponent_NoRegister();
 
-#define FID_LD05_Plugins_JakubCableComponent_Source_JakubCableComponent_Public_JakubSimpleParticleComponent_h_16_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_JakubCableComponent_Source_JakubCableComponent_Public_JakubSimpleParticleComponent_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUJakubSimpleParticleComponent(); \
 	friend struct Z_Construct_UClass_UJakubSimpleParticleComponent_Statics; \
@@ -40,7 +40,7 @@ public: \
 	DECLARE_SERIALIZER(UJakubSimpleParticleComponent)
 
 
-#define FID_LD05_Plugins_JakubCableComponent_Source_JakubCableComponent_Public_JakubSimpleParticleComponent_h_16_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_JakubCableComponent_Source_JakubCableComponent_Public_JakubSimpleParticleComponent_h_16_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UJakubSimpleParticleComponent(UJakubSimpleParticleComponent&&) = delete; \
 	UJakubSimpleParticleComponent(const UJakubSimpleParticleComponent&) = delete; \
@@ -50,13 +50,13 @@ public: \
 	NO_API virtual ~UJakubSimpleParticleComponent();
 
 
-#define FID_LD05_Plugins_JakubCableComponent_Source_JakubCableComponent_Public_JakubSimpleParticleComponent_h_13_PROLOG
-#define FID_LD05_Plugins_JakubCableComponent_Source_JakubCableComponent_Public_JakubSimpleParticleComponent_h_16_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_JakubCableComponent_Source_JakubCableComponent_Public_JakubSimpleParticleComponent_h_13_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_JakubCableComponent_Source_JakubCableComponent_Public_JakubSimpleParticleComponent_h_16_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_JakubCableComponent_Source_JakubCableComponent_Public_JakubSimpleParticleComponent_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_JakubCableComponent_Source_JakubCableComponent_Public_JakubSimpleParticleComponent_h_16_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_JakubCableComponent_Source_JakubCableComponent_Public_JakubSimpleParticleComponent_h_16_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_JakubCableComponent_Source_JakubCableComponent_Public_JakubSimpleParticleComponent_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_JakubCableComponent_Source_JakubCableComponent_Public_JakubSimpleParticleComponent_h_16_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_JakubCableComponent_Source_JakubCableComponent_Public_JakubSimpleParticleComponent_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -66,6 +66,6 @@ class UJakubSimpleParticleComponent;
 // ********** End Class UJakubSimpleParticleComponent **********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_JakubCableComponent_Source_JakubCableComponent_Public_JakubSimpleParticleComponent_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_JakubCableComponent_Source_JakubCableComponent_Public_JakubSimpleParticleComponent_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

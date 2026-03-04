@@ -22,7 +22,7 @@ class UPrimitiveComponent;
 struct FClimbNav_SingleClimbPoint;
 
 // ********** Begin Class UNavClimbingComponentCore ************************************************
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavClimbingComponentCore_h_32_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavClimbingComponentCore_h_32_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execNormalizedMainTimer); \
 	DECLARE_FUNCTION(execUpdateWhenReleaseLedge); \
 	DECLARE_FUNCTION(execDropFromLedgeHold); \
@@ -50,10 +50,10 @@ struct FClimbNav_SingleClimbPoint;
 	DECLARE_FUNCTION(execScaleForwardCapOffset);
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavClimbingComponentCore_h_32_CALLBACK_WRAPPERS
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavClimbingComponentCore_h_32_CALLBACK_WRAPPERS
 CLIMBINGNAVIGATION_API UClass* Z_Construct_UClass_UNavClimbingComponentCore_NoRegister();
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavClimbingComponentCore_h_32_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavClimbingComponentCore_h_32_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUNavClimbingComponentCore(); \
 	friend struct Z_Construct_UClass_UNavClimbingComponentCore_Statics; \
@@ -64,7 +64,7 @@ public: \
 	DECLARE_SERIALIZER(UNavClimbingComponentCore)
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavClimbingComponentCore_h_32_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavClimbingComponentCore_h_32_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UNavClimbingComponentCore(UNavClimbingComponentCore&&) = delete; \
 	UNavClimbingComponentCore(const UNavClimbingComponentCore&) = delete; \
@@ -74,14 +74,14 @@ public: \
 	NO_API virtual ~UNavClimbingComponentCore();
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavClimbingComponentCore_h_29_PROLOG
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavClimbingComponentCore_h_32_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavClimbingComponentCore_h_29_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavClimbingComponentCore_h_32_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavClimbingComponentCore_h_32_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavClimbingComponentCore_h_32_CALLBACK_WRAPPERS \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavClimbingComponentCore_h_32_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavClimbingComponentCore_h_32_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavClimbingComponentCore_h_32_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavClimbingComponentCore_h_32_CALLBACK_WRAPPERS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavClimbingComponentCore_h_32_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavClimbingComponentCore_h_32_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -91,6 +91,6 @@ class UNavClimbingComponentCore;
 // ********** End Class UNavClimbingComponentCore **************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavClimbingComponentCore_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavClimbingComponentCore_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

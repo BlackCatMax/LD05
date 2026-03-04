@@ -24,7 +24,7 @@ enum class AGLS_HumanAI_MainBehaviorMode : uint8;
 enum class AGLS_HumanAI_PatrolingMode : uint8;
 
 // ********** Begin Class AAGLS_Human_ControllerCoreAI *********************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execGetCustomFocalPoint); \
 	DECLARE_FUNCTION(execTryToAvoidOtherCharacter); \
 	DECLARE_FUNCTION(execCustomDefaultControlRotDirection); \
@@ -39,10 +39,10 @@ enum class AGLS_HumanAI_PatrolingMode : uint8;
 	DECLARE_FUNCTION(execBB_GetMainBehaviorMode);
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h_27_CALLBACK_WRAPPERS
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h_27_CALLBACK_WRAPPERS
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_AAGLS_Human_ControllerCoreAI_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h_27_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h_27_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAAGLS_Human_ControllerCoreAI(); \
 	friend struct Z_Construct_UClass_AAGLS_Human_ControllerCoreAI_Statics; \
@@ -53,7 +53,7 @@ public: \
 	DECLARE_SERIALIZER(AAGLS_Human_ControllerCoreAI)
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h_27_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h_27_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AAGLS_Human_ControllerCoreAI(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -65,14 +65,14 @@ public: \
 	NO_API virtual ~AAGLS_Human_ControllerCoreAI();
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h_24_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h_27_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h_24_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h_27_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h_27_CALLBACK_WRAPPERS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h_27_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h_27_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h_27_CALLBACK_WRAPPERS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h_27_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h_27_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -82,6 +82,6 @@ class AAGLS_Human_ControllerCoreAI;
 // ********** End Class AAGLS_Human_ControllerCoreAI ***********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Human_ControllerCoreAI_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

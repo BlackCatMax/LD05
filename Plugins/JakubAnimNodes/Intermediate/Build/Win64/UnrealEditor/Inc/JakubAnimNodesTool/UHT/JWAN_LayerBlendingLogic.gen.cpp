@@ -463,7 +463,7 @@ UScriptStruct* Z_Construct_UScriptStruct_FJWAN_LayerBlendingLogic()
 // ********** End ScriptStruct FJWAN_LayerBlendingLogic ********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_LayerBlendingLogic_h__Script_JakubAnimNodesTool_Statics
+struct Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_LayerBlendingLogic_h__Script_JakubAnimNodesTool_Statics
 {
 	static constexpr FStructRegisterCompiledInInfo ScriptStructInfo[] = {
 		{ FCurvesData::StaticStruct, Z_Construct_UScriptStruct_FCurvesData_Statics::NewStructOps, TEXT("CurvesData"), &Z_Registration_Info_UScriptStruct_FCurvesData, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FCurvesData), 618715445U) },
@@ -471,9 +471,9 @@ struct Z_CompiledInDeferFile_FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNod
 		{ FJWAN_LayerBlendingLogic::StaticStruct, Z_Construct_UScriptStruct_FJWAN_LayerBlendingLogic_Statics::NewStructOps, TEXT("JWAN_LayerBlendingLogic"), &Z_Registration_Info_UScriptStruct_FJWAN_LayerBlendingLogic, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FJWAN_LayerBlendingLogic), 61370223U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_LayerBlendingLogic_h__Script_JakubAnimNodesTool_4280379182(TEXT("/Script/JakubAnimNodesTool"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_LayerBlendingLogic_h__Script_JakubAnimNodesTool_4280379182(TEXT("/Script/JakubAnimNodesTool"),
 	nullptr, 0,
-	Z_CompiledInDeferFile_FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_LayerBlendingLogic_h__Script_JakubAnimNodesTool_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_LayerBlendingLogic_h__Script_JakubAnimNodesTool_Statics::ScriptStructInfo),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_LayerBlendingLogic_h__Script_JakubAnimNodesTool_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_LayerBlendingLogic_h__Script_JakubAnimNodesTool_Statics::ScriptStructInfo),
 	nullptr, 0);
 // ********** End Registration *********************************************************************
 

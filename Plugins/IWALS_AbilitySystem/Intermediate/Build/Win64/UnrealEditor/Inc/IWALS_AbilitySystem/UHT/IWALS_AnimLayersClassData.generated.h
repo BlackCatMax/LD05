@@ -19,13 +19,13 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 class ACharacter;
 
 // ********** Begin Class UIWALS_AnimLayersClassData ***********************************************
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimLayersClassData_h_17_RPC_WRAPPERS \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimLayersClassData_h_17_RPC_WRAPPERS \
 	DECLARE_FUNCTION(execApplyAnimsLayerForAnimInst);
 
 
 IWALS_ABILITYSYSTEM_API UClass* Z_Construct_UClass_UIWALS_AnimLayersClassData_NoRegister();
 
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimLayersClassData_h_17_INCLASS \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimLayersClassData_h_17_INCLASS \
 private: \
 	static void StaticRegisterNativesUIWALS_AnimLayersClassData(); \
 	friend struct Z_Construct_UClass_UIWALS_AnimLayersClassData_Statics; \
@@ -36,7 +36,7 @@ public: \
 	DECLARE_SERIALIZER(UIWALS_AnimLayersClassData)
 
 
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimLayersClassData_h_17_STANDARD_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimLayersClassData_h_17_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UIWALS_AnimLayersClassData(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UIWALS_AnimLayersClassData) \
@@ -48,13 +48,13 @@ public: \
 	NO_API virtual ~UIWALS_AnimLayersClassData();
 
 
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimLayersClassData_h_14_PROLOG
-#define FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimLayersClassData_h_17_GENERATED_BODY_LEGACY \
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimLayersClassData_h_14_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimLayersClassData_h_17_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimLayersClassData_h_17_RPC_WRAPPERS \
-	FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimLayersClassData_h_17_INCLASS \
-	FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimLayersClassData_h_17_STANDARD_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimLayersClassData_h_17_RPC_WRAPPERS \
+	FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimLayersClassData_h_17_INCLASS \
+	FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimLayersClassData_h_17_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -64,6 +64,6 @@ class UIWALS_AnimLayersClassData;
 // ********** End Class UIWALS_AnimLayersClassData *************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimLayersClassData_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_IWALS_AbilitySystem_Source_IWALS_AbilitySystem_Public_IWALS_AnimLayersClassData_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

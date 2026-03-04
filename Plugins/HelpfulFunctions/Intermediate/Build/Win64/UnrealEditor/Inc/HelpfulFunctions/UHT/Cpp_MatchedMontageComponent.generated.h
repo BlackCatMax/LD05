@@ -21,7 +21,7 @@ struct FMatchedMontageManyPoints;
 struct FMatchedMontageTwoPoints;
 
 // ********** Begin ScriptStruct FMatchedMontageTwoPoints ******************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_16_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_16_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FMatchedMontageTwoPoints_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct();
 
@@ -30,7 +30,7 @@ struct FMatchedMontageTwoPoints;
 // ********** End ScriptStruct FMatchedMontageTwoPoints ********************************************
 
 // ********** Begin ScriptStruct FMatchedMontageManyPoints *****************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_65_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_65_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FMatchedMontageManyPoints_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct();
 
@@ -39,7 +39,7 @@ struct FMatchedMontageManyPoints;
 // ********** End ScriptStruct FMatchedMontageManyPoints *******************************************
 
 // ********** Begin ScriptStruct FMMEndingEvent ****************************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_108_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_108_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FMMEndingEvent_Statics; \
 	HELPFULFUNCTIONS_API static class UScriptStruct* StaticStruct();
 
@@ -48,7 +48,7 @@ struct FMMEndingEvent;
 // ********** End ScriptStruct FMMEndingEvent ******************************************************
 
 // ********** Begin Class UCpp_MatchedMontageComponent *********************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_120_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_120_RPC_WRAPPERS_NO_PURE_DECLS \
 	virtual void MatchingMotionNormalized_Implementation(float CurrentTime); \
 	virtual void FinishMatchedMontageC_Implementation(); \
 	DECLARE_FUNCTION(execMatchingMotionNormalized); \
@@ -62,10 +62,10 @@ struct FMMEndingEvent;
 	DECLARE_FUNCTION(execMatchingMultiplePointsC);
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_120_CALLBACK_WRAPPERS
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_120_CALLBACK_WRAPPERS
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UCpp_MatchedMontageComponent_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_120_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_120_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUCpp_MatchedMontageComponent(); \
 	friend struct Z_Construct_UClass_UCpp_MatchedMontageComponent_Statics; \
@@ -76,7 +76,7 @@ public: \
 	DECLARE_SERIALIZER(UCpp_MatchedMontageComponent)
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_120_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_120_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UCpp_MatchedMontageComponent(UCpp_MatchedMontageComponent&&) = delete; \
 	UCpp_MatchedMontageComponent(const UCpp_MatchedMontageComponent&) = delete; \
@@ -86,14 +86,14 @@ public: \
 	NO_API virtual ~UCpp_MatchedMontageComponent();
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_117_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_120_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_117_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_120_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_120_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_120_CALLBACK_WRAPPERS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_120_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_120_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_120_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_120_CALLBACK_WRAPPERS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_120_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h_120_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -103,6 +103,6 @@ class UCpp_MatchedMontageComponent;
 // ********** End Class UCpp_MatchedMontageComponent ***********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_MatchedMontageComponent_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -493,7 +493,7 @@ AAGLS_Zombie_ControllerAI::~AAGLS_Zombie_ControllerAI() {}
 // ********** End Class AAGLS_Zombie_ControllerAI **************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h__Script_HelpfulFunctions_Statics
+struct Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h__Script_HelpfulFunctions_Statics
 {
 	static constexpr FEnumRegisterCompiledInInfo EnumInfo[] = {
 		{ EControllerAI_ControlRotMode_StaticEnum, TEXT("EControllerAI_ControlRotMode"), &Z_Registration_Info_UEnum_EControllerAI_ControlRotMode, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 4211987435U) },
@@ -502,10 +502,10 @@ struct Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFun
 		{ Z_Construct_UClass_AAGLS_Zombie_ControllerAI, AAGLS_Zombie_ControllerAI::StaticClass, TEXT("AAGLS_Zombie_ControllerAI"), &Z_Registration_Info_UClass_AAGLS_Zombie_ControllerAI, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AAGLS_Zombie_ControllerAI), 368089529U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h__Script_HelpfulFunctions_121980381(TEXT("/Script/HelpfulFunctions"),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h__Script_HelpfulFunctions_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h__Script_HelpfulFunctions_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h__Script_HelpfulFunctions_121980381(TEXT("/Script/HelpfulFunctions"),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h__Script_HelpfulFunctions_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h__Script_HelpfulFunctions_Statics::ClassInfo),
 	nullptr, 0,
-	Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h__Script_HelpfulFunctions_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h__Script_HelpfulFunctions_Statics::EnumInfo));
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h__Script_HelpfulFunctions_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_Zombie_ControllerAI_h__Script_HelpfulFunctions_Statics::EnumInfo));
 // ********** End Registration *********************************************************************
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

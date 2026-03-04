@@ -139,14 +139,14 @@ UMyEnvQueryTest_PointsNearEdges::~UMyEnvQueryTest_PointsNearEdges() {}
 // ********** End Class UMyEnvQueryTest_PointsNearEdges ********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_MyEnvQueryTest_PointsNearEdges_h__Script_ClimbingNavigation_Statics
+struct Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_MyEnvQueryTest_PointsNearEdges_h__Script_ClimbingNavigation_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UMyEnvQueryTest_PointsNearEdges, UMyEnvQueryTest_PointsNearEdges::StaticClass, TEXT("UMyEnvQueryTest_PointsNearEdges"), &Z_Registration_Info_UClass_UMyEnvQueryTest_PointsNearEdges, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UMyEnvQueryTest_PointsNearEdges), 3650332804U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_MyEnvQueryTest_PointsNearEdges_h__Script_ClimbingNavigation_1055363002(TEXT("/Script/ClimbingNavigation"),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_MyEnvQueryTest_PointsNearEdges_h__Script_ClimbingNavigation_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_MyEnvQueryTest_PointsNearEdges_h__Script_ClimbingNavigation_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_MyEnvQueryTest_PointsNearEdges_h__Script_ClimbingNavigation_1055363002(TEXT("/Script/ClimbingNavigation"),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_MyEnvQueryTest_PointsNearEdges_h__Script_ClimbingNavigation_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_MyEnvQueryTest_PointsNearEdges_h__Script_ClimbingNavigation_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

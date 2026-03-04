@@ -598,7 +598,7 @@ ANavLinksAutoGenerator::~ANavLinksAutoGenerator() {}
 // ********** End Class ANavLinksAutoGenerator *****************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h__Script_ClimbingNavigation_Statics
+struct Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h__Script_ClimbingNavigation_Statics
 {
 	static constexpr FStructRegisterCompiledInInfo ScriptStructInfo[] = {
 		{ FNavLinks_SingleLine::StaticStruct, Z_Construct_UScriptStruct_FNavLinks_SingleLine_Statics::NewStructOps, TEXT("NavLinks_SingleLine"), &Z_Registration_Info_UScriptStruct_FNavLinks_SingleLine, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FNavLinks_SingleLine), 2872763609U) },
@@ -608,9 +608,9 @@ struct Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_Climbing
 		{ Z_Construct_UClass_ANavLinksAutoGenerator, ANavLinksAutoGenerator::StaticClass, TEXT("ANavLinksAutoGenerator"), &Z_Registration_Info_UClass_ANavLinksAutoGenerator, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ANavLinksAutoGenerator), 1683904465U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h__Script_ClimbingNavigation_1324262893(TEXT("/Script/ClimbingNavigation"),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h__Script_ClimbingNavigation_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h__Script_ClimbingNavigation_Statics::ClassInfo),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h__Script_ClimbingNavigation_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h__Script_ClimbingNavigation_Statics::ScriptStructInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h__Script_ClimbingNavigation_1324262893(TEXT("/Script/ClimbingNavigation"),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h__Script_ClimbingNavigation_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h__Script_ClimbingNavigation_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h__Script_ClimbingNavigation_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_NavLinksAutoGenerator_h__Script_ClimbingNavigation_Statics::ScriptStructInfo),
 	nullptr, 0);
 // ********** End Registration *********************************************************************
 

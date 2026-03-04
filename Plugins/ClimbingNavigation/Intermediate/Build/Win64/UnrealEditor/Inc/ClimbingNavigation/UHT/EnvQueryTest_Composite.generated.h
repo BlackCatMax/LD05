@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class UEnvQueryTest_Composite **************************************************
 CLIMBINGNAVIGATION_API UClass* Z_Construct_UClass_UEnvQueryTest_Composite_NoRegister();
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_Composite_h_25_INCLASS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_Composite_h_25_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUEnvQueryTest_Composite(); \
 	friend struct Z_Construct_UClass_UEnvQueryTest_Composite_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(UEnvQueryTest_Composite)
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_Composite_h_25_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_Composite_h_25_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UEnvQueryTest_Composite(UEnvQueryTest_Composite&&) = delete; \
 	UEnvQueryTest_Composite(const UEnvQueryTest_Composite&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~UEnvQueryTest_Composite();
 
 
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_Composite_h_22_PROLOG
-#define FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_Composite_h_25_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_Composite_h_22_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_Composite_h_25_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_Composite_h_25_INCLASS_NO_PURE_DECLS \
-	FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_Composite_h_25_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_Composite_h_25_INCLASS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_Composite_h_25_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,7 +55,7 @@ class UEnvQueryTest_Composite;
 // ********** End Class UEnvQueryTest_Composite ****************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_Composite_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_ClimbingNavigation_Source_ClimbingNavigation_Public_EnvQueryTest_Composite_h
 
 // ********** Begin Enum EScoreFoldingMethod *******************************************************
 #define FOREACH_ENUM_ESCOREFOLDINGMETHOD(op) \

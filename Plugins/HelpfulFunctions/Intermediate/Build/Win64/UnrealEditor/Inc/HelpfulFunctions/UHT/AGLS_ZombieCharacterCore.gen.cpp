@@ -2935,7 +2935,7 @@ AAGLS_ZombieCharacterCore::~AAGLS_ZombieCharacterCore() {}
 // ********** End Class AAGLS_ZombieCharacterCore **************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h__Script_HelpfulFunctions_Statics
+struct Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h__Script_HelpfulFunctions_Statics
 {
 	static constexpr FEnumRegisterCompiledInInfo EnumInfo[] = {
 		{ ECharacterDetailModeFlags_StaticEnum, TEXT("ECharacterDetailModeFlags"), &Z_Registration_Info_UEnum_ECharacterDetailModeFlags, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 2751881608U) },
@@ -2947,10 +2947,10 @@ struct Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFun
 		{ Z_Construct_UClass_AAGLS_ZombieCharacterCore, AAGLS_ZombieCharacterCore::StaticClass, TEXT("AAGLS_ZombieCharacterCore"), &Z_Registration_Info_UClass_AAGLS_ZombieCharacterCore, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AAGLS_ZombieCharacterCore), 258646532U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h__Script_HelpfulFunctions_3801950884(TEXT("/Script/HelpfulFunctions"),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h__Script_HelpfulFunctions_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h__Script_HelpfulFunctions_Statics::ClassInfo),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h__Script_HelpfulFunctions_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h__Script_HelpfulFunctions_Statics::ScriptStructInfo),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h__Script_HelpfulFunctions_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h__Script_HelpfulFunctions_Statics::EnumInfo));
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h__Script_HelpfulFunctions_3801950884(TEXT("/Script/HelpfulFunctions"),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h__Script_HelpfulFunctions_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h__Script_HelpfulFunctions_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h__Script_HelpfulFunctions_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h__Script_HelpfulFunctions_Statics::ScriptStructInfo),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h__Script_HelpfulFunctions_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_AGLS_ZombieCharacterCore_h__Script_HelpfulFunctions_Statics::EnumInfo));
 // ********** End Registration *********************************************************************
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

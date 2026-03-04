@@ -1169,7 +1169,7 @@ UCpp_CoverSystemV2::~UCpp_CoverSystemV2() {}
 // ********** End Class UCpp_CoverSystemV2 *********************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h__Script_HelpfulFunctions_Statics
+struct Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h__Script_HelpfulFunctions_Statics
 {
 	static constexpr FStructRegisterCompiledInInfo ScriptStructInfo[] = {
 		{ FCoverTraceStartConfig::StaticStruct, Z_Construct_UScriptStruct_FCoverTraceStartConfig_Statics::NewStructOps, TEXT("CoverTraceStartConfig"), &Z_Registration_Info_UScriptStruct_FCoverTraceStartConfig, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FCoverTraceStartConfig), 831580227U) },
@@ -1179,9 +1179,9 @@ struct Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFun
 		{ Z_Construct_UClass_UCpp_CoverSystemV2, UCpp_CoverSystemV2::StaticClass, TEXT("UCpp_CoverSystemV2"), &Z_Registration_Info_UClass_UCpp_CoverSystemV2, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UCpp_CoverSystemV2), 195557167U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h__Script_HelpfulFunctions_2138811282(TEXT("/Script/HelpfulFunctions"),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h__Script_HelpfulFunctions_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h__Script_HelpfulFunctions_Statics::ClassInfo),
-	Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h__Script_HelpfulFunctions_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h__Script_HelpfulFunctions_Statics::ScriptStructInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h__Script_HelpfulFunctions_2138811282(TEXT("/Script/HelpfulFunctions"),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h__Script_HelpfulFunctions_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h__Script_HelpfulFunctions_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h__Script_HelpfulFunctions_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_Cpp_CoverSystemV2_h__Script_HelpfulFunctions_Statics::ScriptStructInfo),
 	nullptr, 0);
 // ********** End Registration *********************************************************************
 

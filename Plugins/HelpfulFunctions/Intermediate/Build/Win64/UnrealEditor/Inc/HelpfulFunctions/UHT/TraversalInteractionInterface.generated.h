@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 enum class CALS_TraversalAction : uint8;
 
 // ********** Begin Interface UTraversalInteractionInterface ***************************************
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
 	virtual void BPI_Get_ControlTransform_Implementation(FTransform& ReturnTransform) {}; \
 	virtual void BPI_Get_RootTransform_Implementation(FTransform& ReturnTransform) {}; \
 	virtual void BPI_Get_StartedPredictableJump_Implementation(bool& StartedJump) {}; \
@@ -38,10 +38,10 @@ enum class CALS_TraversalAction : uint8;
 	DECLARE_FUNCTION(execBPI_Set_InteractionTransform);
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_13_CALLBACK_WRAPPERS
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_13_CALLBACK_WRAPPERS
 HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UTraversalInteractionInterface_NoRegister();
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_13_ENHANCED_CONSTRUCTORS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_13_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	HELPFULFUNCTIONS_API UTraversalInteractionInterface(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -53,7 +53,7 @@ HELPFULFUNCTIONS_API UClass* Z_Construct_UClass_UTraversalInteractionInterface_N
 	virtual ~UTraversalInteractionInterface() = default;
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_13_GENERATED_UINTERFACE_BODY() \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_13_GENERATED_UINTERFACE_BODY() \
 private: \
 	static void StaticRegisterNativesUTraversalInteractionInterface(); \
 	friend struct Z_Construct_UClass_UTraversalInteractionInterface_Statics; \
@@ -64,15 +64,15 @@ public: \
 	DECLARE_SERIALIZER(UTraversalInteractionInterface)
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_13_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_13_GENERATED_BODY \
 	PRAGMA_DISABLE_DEPRECATION_WARNINGS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_13_GENERATED_UINTERFACE_BODY() \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_13_ENHANCED_CONSTRUCTORS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_13_GENERATED_UINTERFACE_BODY() \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 	PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_13_INCLASS_IINTERFACE_NO_PURE_DECLS \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_13_INCLASS_IINTERFACE_NO_PURE_DECLS \
 protected: \
 	virtual ~ITraversalInteractionInterface() {} \
 public: \
@@ -89,13 +89,13 @@ public: \
 	virtual UObject* _getUObject() const { return nullptr; }
 
 
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_10_PROLOG
-#define FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_21_GENERATED_BODY \
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_10_PROLOG
+#define FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_21_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_13_CALLBACK_WRAPPERS \
-	FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_13_INCLASS_IINTERFACE_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_13_CALLBACK_WRAPPERS \
+	FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h_13_INCLASS_IINTERFACE_NO_PURE_DECLS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -105,6 +105,6 @@ class UTraversalInteractionInterface;
 // ********** End Interface UTraversalInteractionInterface *****************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_LD05_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h
+#define CURRENT_FILE_ID FID_LD05_main_LD05_main_Plugins_HelpfulFunctions_Source_HelpfulFunctions_Public_TraversalInteractionInterface_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
