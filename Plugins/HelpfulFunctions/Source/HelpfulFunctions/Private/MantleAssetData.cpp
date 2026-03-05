@@ -1,5 +1,0 @@
-
-
-
-#include "MantleAssetData.h"
-
